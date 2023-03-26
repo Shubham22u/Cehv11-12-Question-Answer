@@ -1,0 +1,1516 @@
+The assurance that the systems responsible for delivering, storing, and processing information are accessible when required by authorized users is referred to by which of the following elements of information security?
+
+A. non-repudiation
+B. integrity
+C. confidentiality
+D. availability
+D. availability
+
+
+Identify the element of information security that refers to the quality of being genuine or uncorrupted as a characteristic of any communication, documents, or any data.
+
+A. integrity
+B. authenticity
+C. availability
+D. confidentiality
+B. authenticity
+
+
+Mark, a professional hacker, targets his opponent's website. He finds susceptible user inputs, injects malicious SQL code into the database, and tampers with critical information.
+
+Which of the following types of attack did Mark perform in the above scenario?
+
+A. close-in attack
+B. passive attack
+C. insider attack
+D. active attack
+D. active attack
+
+
+Ruby, a hacker, visited her target company disguised as an aspiring candidate seeking a job. She noticed that certain sensitive documents were thrown in the trash near an employee's desk. She collected these documents, which included critical information that helped her to perform further attacks.
+
+Identify the type of attack performed by Ruby in the above scenario.
+
+A. close-in attack
+B. passive attack
+C. insider attack
+D. active attack
+A. close-in attack
+
+
+James, a malware programmer, intruded into a manufacturing plant that produces computer peripheral devices. James tampered with the software inside devices ready to be delivered to clients. The tampered program creates a backdoor that allows unauthorized access to the systems.
+
+Identify the type of attack performed by James in the above scenario to gain unauthorized access to the delivered systems.
+
+A. directory traversal attack
+B. distribution attack
+C. phishing attack
+D. replay attack
+B. distribution attack
+
+
+Williams, an employee, was using his personal laptop within the organization's premises. He connected his laptop to the organization's internal network and began eavesdropping on the communication between other devices connected to the internal network. He sniffed critical information such as login credentials and other confidential data passing through the network.
+
+Identify the type of attack performed by Williams in the above scenario.
+
+A. phishing attack
+B. SQL injection attack
+C. insider attack
+D. replay attack
+C. insider attack
+
+
+Jack is working as a malware analyst in an organization. He was assigned to inspect an attack performed against the organization. Jack determined that the attacker had restricted access to the main computer's files and folders and was demanding an online payment to remove these restrictions.
+
+Which of the following type of attack has Jack identified in the above scenario?
+
+A. phishing
+B. sniffing
+C. ransomware
+D. botnet
+C. ransomware
+
+
+Identify the type of attack vector that focuses on stealing information from the victim machine without its user being aware and tries to deliver a payload affecting computer performance.
+
+A. ATP attack
+B. botnet
+C. insider attack
+D. phishing
+A. ATP attack
+
+
+Andrew, a professional hacker, drafts an email that appears to be legitimate and attaches malicious links to lure victims; he then distributes it through communication channels or mails to obtain private information like account numbers.
+
+Identify the type of attack vector employed by Andrew in the above scenario.
+
+A. botnet
+B. phishing
+C. ransomware
+D. insider attack
+B. phishing
+
+
+Identify the insider attack wherein the miscreant can easily bypass security rules by using privileged access and cause a threat to the organization's information systems.
+
+A. SQL injection
+B. directory traversal attack
+C. pod slurping
+D. XSS attack
+C. pod slurping
+
+
+Which of the following acts defines legal prohibitions against circumvention of the technological protection measures employed by copyright owners to protect their works and against the removal or alteration of copyright management information?
+
+A. HIPAA
+B. DMCA
+C. DPA
+D. PCI/DSS
+B. DMCA
+
+
+An organization located in Europe maintains a large amount of user data by following all the security-related laws. It also follows GDPR protection principles, one of which states that the organization should only collect and process data necessary for the specified task.
+
+Which of the following GDPR protection principle is discussed in the above scenario?
+
+A. accuracy
+B. purpose limitation
+C. lawfulness, fairness, and transparency
+D. data minimization
+D. data minimization
+
+
+Which of the following titles in The Digital Millennium Copyright Act (DMCA) allows the owner of a copy of a program to make reproductions or adaptations when these are necessary to use the program in conjunction with a system?
+
+A. title II: online copyright infringement liability limitation
+B. title I: WIPO treaty implementation
+C. title V: protection of certain original designs
+D. title III: computer maintenance or repair
+D. title III: computer maintenance and repar
+
+
+Which of the following titles of the Sarbanes Oxley Act (SOX) mandates that only senior executives should take individual responsibility for the accuracy and completeness of corporate financial reports?
+
+A. title VIII: corporate and criminal fraud accountability
+B. title V: analyst conflicts of interest
+C. title III: corporate responsibility
+D. title X: corporate tax returns
+C. title III: corporate responsibility
+
+
+Which of the following countries has implemented the cyber law "Regulation of Investigatory Powers Act 2000"?
+
+A. Germany
+B. India
+C. Australia
+D. United Kingdom
+D. United Kingdom
+
+
+Adele, a professional hacker, initiated an attack on an organization. During the course of this attack, he established a two-way communication channel between the target system and his server to communicate and pass data back and forth. Additionally, he employed encryption to hide the communication channel.
+
+Which of the following phases of cyber kill chain methodology was Adele performing in the above scenario?
+
+A. command and control
+B. weaponization
+C. delivery
+D. exploitation
+A. command and control
+
+
+Don, a professional hacker, initiated an attack on a target organization. During the course of this attack, he employed automated tools to collect maximum weak points, vulnerabilities, and other sensitive information across the target network.
+
+Which of the following phases of cyber kill chain methodology is Don currently executing in the above scenario?
+
+A. delivery
+B. exploitation
+C. command and control
+D. reconnaissance
+D. reconnaissance
+
+
+John, a professional hacker, targeted a newly joined employee of an organization. He sent a malicious payload via a phishing email that insisted that the user reset his official account's password on a priority basis and warned that his account would be blocked if the email were ignored.
+
+Identify the phase of cyber kill chain methodology John has performed in the above scenario.
+
+A. reconnaissance
+B. delivery
+C. exploitation
+D. installation
+B. delivery
+
+
+Clara, a security professional, while checking the data feeds of the domains, detects downloaded malicious files and unsolicited communication with the outside network based on the domains.
+
+Which of the following adversary behaviors was detected by Clara?
+
+A. internal reconnaissance
+B. unspecified proxy activities
+C. HTTP user agent
+D. use of web shell
+B. unspecified proxy activities
+
+
+James, a professional hacker, successfully penetrated the target's network and now wants to gather as much information as possible. To achieve this, he uses a technique that can collect and combine as much information as possible, including business tactics of the organization, financial information, and network infrastructure information.
+
+Which of the following techniques was used by James in the above scenario?
+
+A. HTTP user agent
+B. use of web shell
+C. use of powershell
+D. data staging
+D. data staging
+
+
+John, a professional hacker, was hired by a government agency to penetrate, gain top-secret information from, and damage other government agencies' information systems or networks.
+
+Based on the above scenario, which of the following classes of hacker does John fall in?
+
+A. cyber terrorists
+B. state-sponsored hackers
+C. hacker teams
+D. industrial spies
+B. state-sponsored hackers
+
+
+Lionel, a professional hacker motivated by political beliefs, plans to employ various techniques to create fear of large-scale disruption of computer networks.
+
+Which of the following types of threat actors does Lionel belong to in the above scenario?
+
+A. cyber terrorists
+B. script kiddies
+C. state-sponsored hackers
+D. industrial spies
+A. cyber terrorists
+
+
+Which of the following types of threat actors helps both hackers find various vulnerabilities in a system and vendors improve products by checking limitations to make them more secure?
+
+A. gray hats
+B. white hats
+C. black hats
+D. organized hackers
+A. gray hats
+
+
+Identify the type of threat actors that include groups of individuals or communities involved in organized, planned, and prolonged criminal activities and who exploit victims from distinct jurisdictions on the Internet, making them difficult to locate.
+
+A. industrial spies
+B. black hats
+C. insiders
+D. criminal syndicates
+D. criminal syndicates
+
+
+Which of the following type of hackers are unskilled individuals who compromise systems by running tools or software developed by other professional hackers?
+
+A. suicide hackers
+B. script kiddies
+C. hacktivists
+D. black hats
+B. script kiddies
+
+
+Given below are the various phases of hacking.
+
+1. Reconnaissance
+2. Gaining access
+3. Maintaining access
+4. Clearing tracks
+5. Scanning
+
+What is the correct sequence of phases involved in hacking?
+
+A. 3 -> 1 -> 2 -> 5 -> 4
+B. 1 -> 2 -> 4 -> 5 -> 3
+C. 1 -> 5 -> 2 -> 3 -> 4
+D. 1 -> 2 -> 3 -> 4 -> 5
+C. 1 -> 5 -> 2 -> 3 -> 4
+
+
+In which of the following phases of hacking does an attacker employ steganography and tunneling techniques to retain access to the victim's system, remain unnoticed, and remove evidence that might lead to prosecution?
+
+A. reconnaissance
+B. preparatory
+C. scanning
+D. clearing tracks
+D. clearing tracks
+
+
+In which of the following hacking phases do attackers extract information such as live machines, port, port status, OS details, device type, and system uptime to launch further attacks?
+
+A. scanning
+B. reconnaissance
+C. gaining access
+D. clearing tracks
+A. scanning
+
+
+Lopez, a penetration tester, executes different phases of the hacking cycle in her organization. She detects that the network is susceptible to password cracking, buffer overflows, denial of service, and session hijacking attacks.
+
+Identify the hacking phase Lopez was executing in the above scenario.
+
+A. gaining access
+B. clearing tracks
+C. scanning
+D. maintaining access
+A. gaining access
+
+
+Peter, a professional hacker, managed to gain total control of his target system and was able to execute scripts in the trojan. He then used techniques such as steganography and tunneling to remain undetected and to avoid legal trouble.
+
+Which of the following hacking phase was Peter currently performing in the above scenario?
+
+A. scanning
+B. clearing tracks
+C. maintaining access
+D. gaining access
+B. clearing tracks
+
+
+John, a security specialist, was requested by a client organization to check whether the security testing process was performed according to standard. He implemented a security audit on the organization's network to ensure that the performed test was well-organized, efficient, and ethical.
+
+John has conducted the audit following the steps given below.
+
+1. Talk to the client and discuss the needs to be addressed during testing
+2. Analyze the results of the testing and prepare a report
+3. Organize an ethical hacking team and prepare a schedule for testing
+4. Conduct the test
+5. Prepare and sign NDA documents with the client
+6. Present the findings to the client
+
+Identify the correct sequence of the steps John has followed while performing the security audit.
+
+A. 1 -> 2 -> 4 -> 5 -> 6 -> 3
+B. 1 -> 5 -> 3 -> 4 -> 2 -> 6
+C. 3 -> 5 -> 2 -> 6 -> 1 -> 4
+D. 3 -> 1 -> 2 -> 4 -> 5 -> 6
+B. 1 -> 5 -> 3 -> 4 -> 2 -> 6
+
+
+Identify the term that refers to IT professionals who employ their hacking skills for defensive purposes, such as auditing their systems for known vulnerabilities and testing the organization's network security for possible loopholes and vulnerabilities.
+
+A. hacker
+B. ethical hacker
+C. attacker
+D. cracker
+B. ethical hacker
+
+
+Identify the reason why organizations recruit ethical hackers.
+
+A. Retain the current security posture of the organization
+B. Minimize the security controls to safeguard the customer data
+C. Uncover vulnerabilities in systems and explore their potential as a risk
+D. Allow hackers to gain access to the information systems
+C. Uncover vulnerabilities in systems and explore their potential as a risk
+
+
+Which of the following is the practice of employing computer and network skills in order to assist organizations in testing their network security for possible loopholes and vulnerabilities?
+
+A. computer forensics
+B. ethical hacking
+C. disaster recovery
+D. risk assessment
+B. ethical hacking
+
+
+Identify the individuals who are also known as security analysts or ethical hackers.
+
+A. suicide hackers
+B. black hats
+C. hacker teams
+D. white hats
+D. white hats
+
+
+Which of the following Google advanced search operators displays websites that are similar to the URL specified?
+
+A. info
+B. related
+C. allinurl
+D. cache
+B. related
+
+
+Which of the following tools includes scanners such as comprehensive security scanners and port scanners and provides information such as NetBIOS names, configuration info, open TCP and UDP ports, transports, and shares?
+
+A. TorBrowser
+B. Netcraft
+C. MegaPIng
+D. ShellPhish
+C. MegaPing
+
+
+Identify the Nbtstat parameter that displays a count of all names resolved by a broadcast or WINS server.
+
+A. -r
+B. -c
+C. -R
+D. -S
+A. -r
+
+
+Given below is the syntax of the nbtstat command.
+
+nbtstat [-a RemoteName] [-A IP Address] [-c] [-n] [-r] [-R] [-RR] [-s] [-S] [Interval]
+
+Which of the following Nbtstat parameters in the above syntax purges the name cache and reloads all #PRE-tagged entries from the Lmhosts file?
+
+A. -R
+B. -r
+C. -s
+D. -RR
+A. -R
+
+
+Identify the Nbtstat parameter that lists the contents of the NetBIOS name cache, the table of NetBIOS names, and their resolved IP addresses.
+
+A. -R
+B. -r
+C. -S
+D. -c
+D. -c
+
+
+Jack, a professional hacker, was recruited by an agency to steal sensitive data from a rival company. From a remote location, he discovered vulnerabilities in the target company's network using a vulnerability scanner. He exploited them to intrude into the network and steal confidential data.
+
+Identify the threat source exploited by Jack in the above scenario.
+
+A. unintentional threats
+B. natural threats
+C. external threats
+D. internal threats
+C. external threats
+
+
+Elon, a disgruntled employee with access to sensitive data, intends to damage the organization's reputation. He shares all the critical information and blueprints with the competitor and benefits financially.
+
+Identify the threat source in the above scenario.
+
+A. external threat
+B. natural threat
+C. internal threat
+D. unintentional threat
+C. internal threat
+
+
+Sam, a new employee at an organization, received a phishing mail from an unauthorized source on his official email ID. As Sam was not trained on email security, he opened the email and clicked on the malicious link within the email, allowing the attacker to gain backdoor access to the office network.
+
+Identify the threat source in the above scenario.
+
+A. structured external threats
+B. natural threats
+C. unintentional threats
+D. external threats
+C. unintentional threats
+
+
+James, a student, was curious about hacking. Although he does not possess much knowledge about the subject, he initiated a DoS attack on a website using freely available tools on the Internet. As the website already has some sort of security controls, it detected unusual traffic and blocked James's IP address.
+
+Which of the following types of threat sources is discussed in the above scenario?
+
+A. structured external threats
+B. natural threats
+C. unstructured external threats
+D. unintentional threats
+C. unstructured external threats
+
+
+Daniel, an employee working from home, was assigned a task to complete within a half-day, but due to frequent power failures at his residential area, he failed to accomplish the task.
+
+Which of the following threats was demonstrated in the above scenario?
+
+A. natural threats
+B. internal threats
+C. unstructured external threats
+D. structured external threats
+A. natural threats
+
+
+Mark, a professional hacker, scanned the target system to check for running services or open ports. After successful scanning, he discovered an open FTP port, exploited it to install malware, and performed malicious activities on the victim system.
+
+In which of the following ways did Mark installed malware in the victim system?
+
+A. file sharing services
+B. insecure patch management
+C. email attachments
+D. rogue/decoy applications
+A. file sharing services
+
+
+Joe, a professional hacker, initiated an attack against Bob by tricking him into downloading a free software program embedded with a keylogger labeled as trusted. As the program was labeled trusted, the antivirus software installed on Bob's system failed to identify it as malicious software. As a result, the malicious software recorded all the key strokes entered by Bob and transmitted them to Joe.
+
+Identify the application Joe employed in the above scenario to lure Bob into installing malicious software.
+
+A. insecure patch management
+B. instant messenger applications
+C. email attachments
+D. rogue applications
+D. rogue applications
+
+
+Jack, a professional hacker, created a malicious hyperlink and injected it into a website that appeared legitimate to trick users into clicking the link. When a victim clicked on the malicious link, the malware embedded in the link executed without the knowledge or consent of the victim.
+
+Identify the technique employed by Jack to distribute malware in the above scenario.
+
+A. malvertising
+B. black hat search engine optimization
+C. social engineered click-jacking
+D. spear-phishing sites
+C. social engineered click-jacking
+
+
+Anisha, a shopping freak, frequently uses many online websites for purchasing products without checking their legitimacy. While doing so, she unknowingly clicked on one of the shopping commercials expecting it to be authentic. However, this activity made her lose a huge amount of money from her account.
+
+Identify the technique employed to distribute malware in the above scenario.
+
+A. black hat search engine optimization
+B. malvertising
+C. drive-by downloads
+D. spam emails
+B. malvertising
+
+
+Which of the following malware distribution techniques involves mimicking legitimate institutions in an attempt to steal login credentials?
+
+A. drive-by downloads
+B. spear-phishing sites
+C. spam emails
+D. malvertising
+B. spear-phishing sites
+
+
+Which of the following malware distribution techniques involves exploiting flaws in browser software to install malware by merely visiting a web page?
+
+A. drive-by downloads
+B. malvertising
+C. black hat search engine optimization
+D. spam emails
+A. drive-by downloads
+
+
+Identify the technique used by the attacker that involves keyword stuffing, inserting doorway pages, page swapping, and adding unrelated keywords to get higher rankings for malware pages.
+
+A. social engineered click-jacking
+B. drive-by downloads
+C. black hat search engine optimization
+D. malvertising
+C. black hat search engine optimization
+
+
+Benson, a professional hacker, uses a technique that can exploit browser vulnerabilities. Using this technique, he is able to install malware simply by visiting a web page, and the victim system gets exploited whenever the webpage is being explored.
+
+Which of the following technique was mentioned in the above scenario?
+
+A. social engineered click-jacking
+B. malvertising
+C. spear-phishing sites
+D. drive-by downloads
+D. drive-by downloads
+
+
+Identify the malware component that compresses the malware file by using compression techniques to convert the code and data of the malware into an unreadable format.
+
+A. obfuscator
+B. injector
+C. dropper
+D. packer
+D. packer
+
+
+Which of the following malware components performs the desired activity when activated and is used to delete or modify files to compromise system security?
+
+A. dropper
+B. payload
+C. downloader
+D. crypter
+B. payload
+
+
+Eyan, a professional hacker, developed malicious code that contains a sequence of commands that can take advantage of a bug or vulnerability in a digital system or device. He used the malicious code to spy on information, install malware, and compromise system security.
+
+Identify the component of the malware developed by Eyan in the above scenario.
+
+A. droppery
+B. crypter
+C. downloader
+D. exploit
+D. exploit
+
+
+Which of the following port numbers is used by the trojan "Telecommando" to perform malicious activities on the target machine?
+
+A. 4590
+B. 54321
+C. 61466
+D. 65000
+C. 61466
+
+
+Identify the trojan that uses port number 443 to infect the target systems and propagate malicious software to other systems.
+
+A. shamoon
+B. remote grab
+C. WannaCry
+D. emotet
+D. emotet
+
+
+Which of the following port numbers is used by trojans such as Silencer and WebEx?
+
+A. 1177
+B. 1011
+C. 1001
+D. 1170
+C. 1001
+
+
+Irin is a security professional in an organization. The organization instructed her to investigate a security incident that exposed critical information such as credit card/debit card details, account holder name, and CVV number. While investigating the incident, Irin found that the systems are infected with financial fraudulent malware that targeted the payment equipment.
+
+Identify the type of malware detected by Irin in the above scenario.
+
+A. point-of-sale trojans
+B. rootkit trojans
+C. backdoor trojans
+D. service protocol trojans
+A. point-of-sale trojans
+
+
+Which of the following types of trojan tricks regular computer users into downloading trojan-infected files to their systems through URL redirection and, post-download, connects back to the attacker using IRC channels?
+
+A. defacement trojans
+B. e-banking trojans
+C. botnet trojans
+D. rootkit trojans
+C. botnet trojans
+
+
+Serin, a professional hacker, injected a backdoor into a target system that specifically attacked the root or system OS. When the backdoor is executed, he will obtain administrator-level access to the target system.
+
+Identify the type of malware utilized by Serin in the above scenario.
+
+A. point-of-sale trojans
+B. service protocol trojans
+C. e-banking trojans
+D. rootkit trojans
+D. rootkit trojans
+
+
+Which of the following types of trojan uses port number 445 to infect the target system entry and exit points for application traffic?
+
+A. shamoon
+B. WannaCry
+C. hackers paradise
+D. Mspy
+B. WannaCry
+
+
+Given below are various stages involved in the virus lifecycle.
+
+1. Replication
+2. Incorporation
+3. Launch
+4. Execution of the damage routine
+5. Design
+6. Detection
+
+Identify the correct sequence of stages involved in the virus lifecycle.
+
+A. 3 -> 4 -> 5 -> 6 -> 1 -> 2
+B. 1 -> 2 -> 3 -> 4 -> 5 -> 6
+C. 5 -> 1 -> 3 -> 6 -> 2 -> 4
+D. 2 -> 3 -> 4 -> 1 -> 5 -> 6
+C. 5 -> 1 -> 3 -> 6 -> 2 -> 4
+
+
+In which of the following stages of the virus lifecycle does a user install antivirus updates and eliminate virus threats?
+
+A. launch
+B. execution of the damage routine
+C. detection
+D. replication
+B. execution of the damage routine
+
+
+Joy, a professional hacker, targeted an organization's system using a special type of virus that hides its actual source of infection. The virus employed by Joy diverts the antivirus solutions by providing certain other random location even though it is residing in the system.
+
+Identify the type of virus employed by Joy in the above scenario.
+
+A. add-on virus
+B. logic bomb virus
+C. armored virus
+D. web scripting virus
+C. armored virus
+
+
+Kevin, a professional hacker, was hired to break into an organization's network and gather sensitive information. Kevin installed a virus that will be triggered when a specific date/time is reached, using which he can gain remote access and retrieve sensitive information.
+
+Identify the type of virus used by Kevin in the above scenario.
+
+A. metaphoric virus
+B. logic bomb virus
+C. polymorphic virus
+D. file-extension virus
+B. logic bomb virus
+
+
+Freddy, a professional hacker, targets sensitive information stored in document files of programs like Microsoft word. For this purpose, he uses a virus program that is written using VBA, which infects the documents and converts the infected documents into template files while maintaining their appearance as standard document files.
+
+Identify the type of virus employed by Freddy in the above scenario.
+
+A. file virus
+B. multipartite virus
+C. web scripting virus
+D. macro virus
+D. macro virus
+
+
+Which of the following viruses combines the approach of file infectors and boot record infectors and attempts to simultaneously attack both the boot sector and executable or program files?
+
+A. system or boot-sector viruses
+B. cluster viruses
+C. multipartite viruses
+D. macro viruses
+C. multipartite viruses
+
+
+Identify the type of virus that overwrites a part of the host file with null constant without increasing the length of the file and maintains a constant file size when infecting, which allows the virus to evade detection.
+
+A. cavity virus
+B. shell virus
+C. metamorphic virus
+D. file-extension virus
+A. cavity virus
+
+
+Identify the type of virus whose life is directly proportional to the life of its host, which means it executes only upon the execution of its attached program and terminates upon the termination of its attached program.
+
+A. intrusive virus
+B. add-on virus
+C. terminate and stay resident virus
+D. transient virus
+D. transient virus
+
+
+Which of the following viruses stores itself with the same filename as the target program file, infects the computer upon executing the file, and uses DoS to run COM files before executing EXE files?
+
+A. camouflage viruses
+B. file-extension viruses
+C. armored viruses
+D. logic bomb viruses
+A. camouflage viruses
+
+
+Which of the following malware programs can replicate, execute, and spread across network connections independent of human intervention?
+
+A. botnet
+B. trojans
+C. worms
+D. keyloggers
+C. worms
+
+
+Which of the following PUAs compel users to download large files to download unwanted programs with peer-to-peer file sharing features?
+
+A. adware
+B. marketing
+C. torrent
+D. cryptomining
+C. torrent
+
+
+Which of the following fileless propagation techniques involves exploiting pre-installed tools in Windows OS such as PowerShell and Windows Management Instrumentation (WMI) to install and run malicious code?
+
+A. native applications
+B. phishing emails
+C. registry manipulation
+D. malicious websites
+A. native applications
+
+
+Identify the type of vulnerabilities exploited by an attacker before they are identified and patched by the developers.
+
+A. open services
+B. zero-day vulnerabilities
+C. legacy platform vulnerabilities
+D. buffer overflow vulnerabilities
+B. zero-day vulnerabilities
+
+
+Identify the type of software vulnerability that occurs due to coding errors and allows the attackers to gain access to the target system.
+
+A. unpatched servers
+B. open services
+C. misconfiguration
+D. buffer overflow
+D. buffer overflow
+
+
+Steve, a forensic expert, was appointed to evaluate an attack initiated on the organization's network. He performed an overall assessment of the network to identify the cause. During this process, he identified outbound connections to Internet services and a few applications running with debugging enabled.
+
+Which following category of vulnerabilities did Steve identify in the above scenario?
+
+A. misconfiguration
+B. operating system flaws
+C. design flaws
+D. buffer overflows
+A. misconfiguration
+
+
+Rogers, an administrator, has installed new software on an employee's system and forgot to change the credentials provided by the software vendor. Robert, an attacker, on the other hand, browsed an online resource to obtain credentials provided by the software vendor and used those credentials to gain remote access to the employee's system to steal valuable data.
+
+Identify the type of vulnerability demonstrated in the above scenario.
+
+A. IP protocol vulnerabilities
+B. default password and settings
+C. TCP protocol vulnerabilities
+D. operating system vulnerabilities
+B. default password and settings
+
+
+A computer user was trying to read the latest news articles from a popular website, but the user was prevented from accessing the resources of the website as certain underlying vulnerabilities in the webpage allowed an attacker to inject fake requests into the network; as a result, the server stopped responding to legitimate user requests.
+
+What is the impact caused due to vulnerabilities in the above scenario?
+
+A. denial of service
+B. information disclosure
+C. privilege escalation
+D. remote code execution
+A. denial of service
+
+
+Identify the severity of CVSS v3.0 ratings with a base score range of 9.0-10.0
+
+A. medium
+B. critical
+C. high
+D. low
+B. critical
+
+
+Identify the metric used in CVSS assessment that represents the features that continue to change during the lifetime of the vulnerability.
+
+A. environmental metric
+B. impact metric
+C. base metric
+D. temporal metric
+D. temporal metric
+
+
+Which of the following is a U.S. government repository of standards-based vulnerability management data and enables the automation of vulnerability management, security measurement, and compliance?
+
+A. National Vulnerability Database (NVD)
+B. Common Vulnerabilities and Exposures (CVE)
+C. Common Weakness Enumeration (CWE)
+D. Common Vulnerability Scoring System (CVSS)
+A. National Vulnerability Database (NVD)
+
+
+Identify the type of vulnerability assessment where the chances of finding the vulnerabilities related to OS and applications are higher, and it is highly unclear who owns the assets in large enterprises.
+
+A. credentialed assessment
+B. network-based assessment
+C. distributed assessment
+D. non-credentialed assessment
+A. credentialed assessment
+
+
+James, a professional pen tester, was appointed by an organization to perform a vulnerability assessment on server systems. James conducted a configuration-level check to identify system configurations, user directories, and file systems to evaluate the possibility of compromise for all the systems.
+
+Identify the type of vulnerability assessment James performed in the above scenario.
+
+A. database assessment
+B. host-based assessment
+C. application assessment
+D. network-based assessment
+B. host-based assessment
+
+
+Which of the following protocols employs a key distribution center (KDC) that consists of two logically distinct parts, an authentication server (AS) and a ticket-granting server (TGS), and uses "tickets" to prove a user's identity?
+
+A. Kerberos authentication
+B. NTLM authentication
+C. Security accounts manager (SAM)
+D. LM authentication
+A. Kerberos authentication
+
+
+Which of the following protocols was upgraded as a default authentication protocol on Windows OS to provide stronger authentication for client/server applications?
+
+A. SNMPv3
+B. Pretty Good Privacy (PGP)
+C. S/MIME
+D. Kerberos
+D. Kerberos
+
+
+Which of the following is a default authentication scheme that performs authentication using a challenge/response strategy as it does not rely on any official protocol specification and has no guarantee to work effectively in every situation?
+
+A. S/MIME
+B. PGP
+C. SAM database
+D. NTLM
+D. NTLM
+
+
+Don, a professional hacker, targeted Bob to steal the credentials of his bank account. Don lured Bob to install malicious software embedded with a keylogger. The keylogger installed on Bob's machine recorded all of Bob's keystrokes and transmitted them to Don. Using the keylogger, Don obtained the credentials of Bob's bank account and performed illegal transactions on his account.
+
+Identify the type of attack Don has performed in the above scenario.
+
+A. non-electronic attacks
+B. offline attacks
+C. passive online attacks
+D. active online attacks
+D. active online attacks
+
+
+Meghan, a professional hacker, was trying to gain unauthorized access to the admin-level system of the target organization. To hack the passwords used by admins, she employed various password cracking techniques such as internal monologue attack, Markov-chain attack, Kerberos password cracking, and LLMNR/NBT-NS poisoning.
+
+Identify the type of password attack performed by Meghan in the above scenario.
+
+A. non-electronic attack
+B. offline attack
+C. active online attack
+D. dictionary attack
+C. active online attack
+
+
+Don, a professional hacker, targeted Johana's official email to steal sensitive information related to a project. Using a password cracking tool, Don tried all the possible combinations of password characters until it was cracked.
+
+Identify the type of password attack performed by Don in the above scenario.
+
+A. wire tapping
+B. brute-force attack
+C. hash injection
+D. spyware
+B. brute-force attack
+
+
+Which of the following malware masks itself as a benign application or software that initially appears to perform a desirable or benign function but steals information from a system?
+
+A. worm
+B. virus
+C. keylogger
+D. trojan
+D. trojan
+
+
+Which of the following attacks is launched either by stealing the ST/TGT from an end-user machine and using it to disguise the attackers as valid users or by stealing the ST/TGT from a compromised AS?
+
+A. pass-the-hash
+B. dictionary attack
+C. pass-the-ticket
+D. password guessing
+C. pass-the-ticket
+
+
+Timberly, a professional hacker, targeted a Windows machine to leverage the Kerberos authentication mechanism to manipulate its services. Timberly compromised the machine of an end-user who was trying to access the target machine's services and stole their ST/TGT to masquerade as a valid user. Using the stolen TGT, Timberly gained unauthorized access to the network services of the target machine.
+
+Identify the type of attack performed by Timberly in the above scenario.
+
+A. pass-the-ticket
+B. wire sniffing
+C. brute-force attack
+D. pass-the-hash
+A. pass-the-ticket
+
+
+Lucifer, a professional hacker, targeted an organization for certain financial benefits. He employed a technique that sniffs out credentials during transit by capturing Internet packets from the target network. Using this technique, Lucifer gained passwords to rlogin sessions.
+
+Identify the type of attack performed by Lucifer in the above scenario.
+
+A. hash injection
+B. wiretapping
+C. keyloggers
+D. pass-the-ticket
+B. wiretapping
+
+
+Melvin, an attacker, targeted an administrator of the targeted organization to gain unauthorized access to its server machine. He created a lookup file containing precomputed hashes of the password previously obtained using brute-force attempts. He compared these hashes with the administrator credentials and discovered a match to access the server.
+
+Identify the attack technique implemented by Melvin in the above scenario.
+
+A. keyloggers
+B. rainbow table attack
+C. pass-the-ticket attack
+D. wiretapping attack
+B. rainbow table attack
+
+
+Given below are different steps involved in password guessing.
+
+1. Find a valid user
+2. Rank passwords from high to low probability
+3. Create a list of possible passwords
+4. Key in each password until the correct password is discovered
+
+What is the correct sequence of steps involved in password guessing?
+
+A. 1 -> 3 -> 2 -> 4
+B. 1 -> 2 -> 3 -> 4
+C. 2 -> 3 -> 4 -> 1
+D 2 -> 3 -> 1 -> 4
+A. 1 -> 3 -> 2 -> 4
+
+
+John, a professional hacker, targeted an employee of an organization to intrude and gain access to the corporate network. He employed a sniffer to capture packets and authentication tokens between the employee and the organization's server. After extracting relevant information, he transmitted the captured tokens back to the server to gain access as a legitimate user.
+
+Identify the type of attack performed by John in the above scenario.
+
+A. rainbow table attack
+B. brute-force attack
+C. LLMNR/NBTT-NS poisoning
+D. replay attack
+D. replay attack
+
+
+Identify the type of password attack that does not require any technical knowledge about hacking or system exploitation.
+
+A. non-electronic attack
+B. active online attack
+C. offline attack
+D. passive online attack
+A. non-electronic attack
+
+
+Moses recently purchased an HP laptop to fulfill his business needs, and he did not change the default password of the laptop set by the manufacturer. Clark, a disgruntled employee working with Moses, decided to steal critical business information from his laptop. Clark used an online tool to obtain the default password to access the target laptop successfully.
+
+Identify the online tool employed by Clark to search default passwords.
+
+A. https://www.intelius.com
+B. https://www.hoovers.com
+C. https://www.exploit-db.com
+D. https://www.open-sez.me
+D. https://www.open-sez.me
+
+
+Identify the password cracking tool that helps attackers to gain unauthorized access to the system or network.
+
+A. MegaPing
+B. THC Hydra
+C. Nmap
+D. web data extractor
+B. THC Hydra
+
+
+Malcolm, a professional hacker, is attempting to access an organization's systems remotely. For this purpose, he used a tool to recover the passwords of the target system and gain unauthorized access to critical files and other system software.
+
+Identify the tool used by Malcolm to crack the passwords of the target system.
+
+A. OllyDbg
+B. Dependency Walker
+C. BeRoot
+D. hashcat
+D. hashcat
+
+
+Which of the following tools allows you to reset unknown or lost Windows local administrator, domain administrator, and other user account passwords?
+
+A. netcraft
+B. FortiNAC
+C. John the Ripper
+D. MegaPing
+C. John the Ripper
+
+
+Which of the following tools allows an attacker to crack passwords of the target system?
+
+A. Medusa
+B. Suricata
+C. Zimperium's zIPS
+D. Snort
+A. Medusa
+
+
+Brady, a student, is attending a training course on Python programming. He purchased a computer to practice Python programming at home. One day he switched ON his computer to practice Python but forgot his system password. He used an automated tool to recover forgotten password and gained instant access to his locked computer without reinstalling the operating system.
+
+Identify the tool employed by Brady in the above scenario.
+
+A. KFSensor
+B. Suphacap
+C. THC-Hydra
+D. SPECTER
+C. THC-Hydra
+
+
+Which of the following practice helps security specialists to protect the network against password cracking attempts?
+
+A. check any suspicious application that stores passwords in memory
+B. never set the password change policy
+C. always use personal information to create passwords
+D. always use passwords that can be found in a dictionary
+A. check any suspicious application that stores passwords in memory
+
+
+Teena, a security professional, has recently joined the company, and she has been trained in various security practices to be followed to protect passwords from being compromised. While implementing the security practices, she notices that a system is susceptible to password cracking attacks.
+
+Identify the practice noticed by Teena that can lead to password cracking attacks.
+
+A. do not use cleartext protocols or protocols with weak encryption
+B. allow the storing of passwords in an unsecured location
+C. do not use passwords that can be found in a dictionary
+D. set the password change policy to 30 days
+B. allow the storing of passwords in an unsecured location
+
+
+Which of the following countermeasures should be followed to protect against password cracking?
+
+A. always use any system's default passwords
+B. do not impose any restrictions on the password change policy
+C. use the same password at the time of password change
+D. do not use passwords that can be found in a dictionary
+D. do not use passwords that can be found in a dictionary
+
+
+Which of the following practice can help security teams defend the application against password cracking attempts?
+
+A. use passwords that can be found in a dictionary
+B. disable account lockout with a certain number of attempts
+C. allow the display of passwords onscreen
+D. ensure that applications neither store passwords to memory nor write them to disk
+D. ensure that applications neither store passwords to memory nor write them to disk
+
+
+Which of the following practices can make devices or networks vulnerable to password cracking attempts?
+
+A. using different passwords that the time of password change
+B. using a random string (salt) as a password prefix or suffix before performing encryption
+C. using the system's default passwords
+D. using passwords that are not available in the dictionary
+C. using the system's default passwords
+
+
+Rocky, a professional hacker, targets an organization to perform a social engineering attack. He impersonated a legitimate employee of the company and requested the receptionist to send him important documents, as his files had been corrupted and he was required to send them immediately to the client.
+
+Which of the following vulnerable behaviors was showcased by Rocky in the above scenario?
+
+A. scarcity
+B. greed
+C. intimidation
+D. familiarity
+C. intimidation
+
+
+John, a threat actor, called up Johana, the IT help desk member of the targeted organization, and informed her that Mr. Tibiyani was about to give a presentation to customers but he could not open his files as they were corrupted and that Mr. Tibiyani requested him to call and ask her to send the files to him as soon as possible to start the presentation.
+
+Identify the social engineering context created by the attacker in the above scenario.
+
+A. consensus proof
+B. intimidation
+C. scarcity
+D. social proof
+B. intimidation
+
+
+Don, a professional hacker, telephoned Bob and claimed to be a network administrator in the target organization. Don informed Bob about a security incident in the network and asked him to provide his account credentials to secure his data. After obtaining these credentials, Don retrieved sensitive information from Bob's account.
+
+Which of the following vulnerable behaviors was showcased by Don in the above scenario?
+
+A. authority
+B. liking
+C. familiarity
+D. social proof
+A. authority
+
+
+Given below are different phases of social engineering attacks.
+
+1. Develop a relationship
+2. Exploit the relationship
+3. Research the target company
+4. Select a target
+
+What is the correct sequence of steps attackers follow to execute a successful social engineering attack?
+
+A. 3 -> 4 -> 2 -> 1
+B. 2 -> 1 -> 4- > 3
+C. 2 -> 3 -> 4 -> 1
+D. 3 -> 4 -> 1 -> 2
+D. 3 -> 4 -> 1 -> 2
+
+
+Don, a threat actor, targeted Bob, a new accountant at the target organization. Don started collecting all the sensitive information about the organization's accounts, finance information, technologies in use, and upcoming plans and used this information to launch further attacks.
+
+Identify the social engineering phase Don is currently executing in the above scenario.
+
+A. develop a relationship
+B. select a target
+C. exploit the relationship
+D. research the target company
+C. exploit the relationship
+
+
+In which of the following social engineering attacks do attackers install small cameras to record the victim's system's actions to obtain login details and other sensitive information?
+
+A. dumpster diving
+B. piggybacking
+C. shoulder surfing
+D. tailgating
+C. shoulder surfing
+
+
+In which of the following type of attacks do attackers mainly target high-profile executives such as CEO, CFO, politicians, and celebrities who have complete access to confidential and highly valuable information?
+
+A. whaling
+B. shoulder surfing
+C. SMiShing
+D. piggybacking
+A. whaling
+
+
+In which of the following techniques does an attacker execute malicious programs on a victim's computer or server, and when the victim enters any URL or domain name, it automatically redirects the victim's traffic to the attacker-controlled website?
+
+A. dumpster diving
+B. impersonation
+C. spimming
+D. pharming
+D. pharming
+
+
+In which of the following attacks do attackers exploit instant messaging platforms and use them to spread spam messages?
+
+A. SMiShing
+B. impersonation
+C. spimming
+D. pharming
+C. spimming
+
+
+Julius, a professional hacker, impersonates an external auditor and tries to persuade a conversation with one of the employees of his target organization. He encouraged the employee to ask questions and then manipulated certain questions to draw out the required information.
+
+Which of the following attack techniques was portrayed by Julius in the above scenario?
+
+A. dumpster diving
+B. tailgating
+C. piggybacking
+D. reverse social engineering
+D. reverse social engineering
+
+
+Which of the following techniques uses VoIP technology and ID spoofing to trick individuals into revealing their critical financial and personal information and uses the information for financial gain?
+
+A. spimming
+B. SMiShing
+C. vishing
+D. whaling
+C. vishing
+
+
+Martin, a professional hacker, targeted Gary, CEO of TechNetSol Inc., to steal his bank account credentials. He crafted a message stating that Gary's bank account was locked and that Gary needed to click on a link and log in to activate it. Gary panicked and clicked the link, revealing his credentials to Martin.
+
+Identify the type of attack Martin performed on Gary in the above scenario.
+
+A. whaling
+B. spam email
+C. SMiShing
+D. chain letters
+C. SMiShing
+
+
+Which of the following malware tricks the computer users into visiting malware-infested websites by telling the target user that their machine has been infected with malware?
+
+A. spyware
+B. scareware
+C. rootkit
+D. worm
+B. scareware
+
+
+Jade, a professional hacker, was planning to enter the premises of an organization that allows access only to authorized persons. For this purpose, he creates a fake ID resembling the ID of the office staff and enters the restricted area by closely following an authorized person through a door that requires key access.
+
+Identify the type of attack performed by Jade in the above scenario.
+
+A. tailgating
+B. vishing
+C. dumpster diving
+D. pharming
+A. tailgating
+
+
+Christy, a professional hacker, targeted a reputed bank to steal the credentials of its customers. To achieve this, he performed a DNS cache poisoning attack on the target DNS server. When users request the concerned bank's web page from their browsers, they receive a URL linked to a Christy-owned banking web page that looks similar to the legitimate banking page.
+
+Identify the type of phishing attack performed by Christy in the above scenario.
+
+A. SMiShing
+B. piggybacking
+C. spimming
+D. pharming
+D. pharming
+
+
+Identify the type of insiders who are uneducated on the latest potential security threats or simply bypass general security procedures to achieve workplace efficiency.
+
+A. professional insider
+B. negligent insider
+C. compromised insider
+D. malicious insider
+B. negligent insider
+
+
+Dennis, an employee experiencing conflict with the management of an organization, uses steganography programs to hide company secrets. He sends this information to competitors, for certain financial benefits, as an innocuous-looking message embedding company secrets in a picture via his official email account.
+
+Identify the type of insider attack performed by Dennis in the above scenario.
+
+A. accident-prone employees
+B. disgruntled employees
+C. undertrained staff
+D. third parties
+B. disgruntled employees
+
+
+Abin, an attacker intending to access the critical assets and computing devices of an organization, impersonated Sally, a system administrator. Abin masquerades as Sally and gathers critical information from computing devices of the target organization.
+
+Identify the type of insider threat demonstrated in the above scenario.
+
+A. negligent insider
+B. malicious insider
+C. professional insider
+D. compromised insider
+D. compromised insider
+
+
+Which of the following encompasses all forms of identity theft, where the perpetrators attempt to impersonate someone else simply to hide their original profile?
+
+A. identity cloning and concealment
+B. tax identity theft
+C. synthetic identity theft
+D. financial identity theft
+A. identity cloning and concealment
+
+
+In which of the following types of identity theft does the perpetrator obtain information from different victims to create a new identity by stealing a social security number and use it with a combination of fake names, dates of birth, addresses, and other details required for creating a new identity?
+
+A. child identity theft
+B. synthetic identity theft
+C. social identity theft
+D. medical identity theft
+B. synthetic identity theft
+
+
+Which of the following password policies can help administrators increase password security?
+
+A. disclose passwords only with colleagues and friends
+B. change passwords once a year
+C. block user accounts if a user exceeds a certain number of failed attempts
+D. choose a minimum of 5 characters
+C. block user accounts if a user exceeds a certain number of failed attempts
+
+
+Which of the following is the best practice to be followed to increase password security?
+
+A. share a computer account with colleagues
+B. avoid using the same password for different accounts
+C. always communicate passwords over the phone or through email or SMS
+D. do not change passwords for a long time
+B. avoid using the same password for different accounts
+
+
+Which of the following countermeasures can assist users in reducing the chances of identity theft?
+
+A. use public Wi-Fi for sharing or accessing internet banking
+B. enable two-factor authentication on all online accounts
+C. always give any personal information over the phone
+D. ensure your name is present on the marketers' hit lists
+B. enable two-factor authentication on all online accounts
+
+
+Which of the following is an anti-phishing tool that provides updated information about sites that users often visit and blocks harmful websites?
+
+A. Netcraft
+B. Unicornsan
+C. Nbtstat
+D. LUCY
+A. Netcraft
+
+
+Mary, a security professional, trained her organization's employees to use a toolbar to check updated information about sites visited by them. The tool helps them make an informed decision about the integrity of those sites and further protects the organization from phishing attacks and fraudsters.
+
+Which of the following toolbars was introduced by Mary in the above scenario?
+
+A. Burp Suite
+B. Netcraft
+C. Shodan
+D. OWASP ZAP
+B. Netcraft
+
+
+Which of the following protocols distributes, inquiries into, retrieves, and posts news articles using a reliable stream-based transmission of news among the ARPA-Internet community?
+
+A. SNMP
+B. IMAP
+C. POP
+D. NNTP
+D. NNTP
+
+
+Which of the following protocols is vulnerable to a sniffing attack as passwords and data are sent in clear text?
+
+A. FTP
+B. SSL
+C. PGP
+D. HTTPS
+A. FTP
+
+
+Which of the following protocols is a TCP/IP-based protocol used to exchange management information between devices connected on a network?
+
+A. HTTP
+B. SNMP
+C. Telnet
+D. POP
+B. SNMP
+
+
+Which of the following protocols is used to communicate through port 23 and allows an attacker to log in to a network machine remotely via a TCP connection to sniff keystrokes, including usernames and passwords, that are sent in cleartext?
+
+A. NNTP
+B. POP
+C. HTTP
+D. Telnet
+D. Telnet
+
+
+In which of the following OSI layers do sniffers operate and perform an initial compromise?
+
+A. data link layer
+B. network layer
+C. transport layer
+D. physical layer
+A. data link layer
+
+
+Smith, a professional hacker, initiated a network sniffing attack on the switched Ethernet environment of a target organization. He employed an automated tool to flood the switch with a fake physical address until the switch translation table became full. When the switch entered fail-open mode, it started acting as a hub by broadcasting packets. Now, Smith could easily accomplish his goal of network sniffing.
+
+Identify the type of attack performed by Smith in the above scenario.
+
+A. ARP poisoning
+B. DHCP starvation
+C. DNS poisoning
+D. MAC flooding
+D. MAC flooding
+
+
+Clark, a professional hacker, targeted an organization's network to steal credentials being shared during active sessions. He collected the physical address of the legitimate users connected to the switch port. Then, Clark started spoofing his physical address with the physical address of a legitimate client and received all the traffic destined for that client.
+
+Which of the following attacks has Clark performed in the above scenario?
+
+A. DHCP starvation attack
+B. ARP spoofing
+C. DNS spoofing
+D. MAC duplicating
+D. MAC duplicating
+
+
+George, a professional hacker, targeted an organization's server to cause reputational damage to the organization. For this purpose, he employed an ARP poisoning tool that forges ARP replies from the target server resulting in customers navigating to the attacker-owned host, which contains irrelevant information for the customers.
+
+Which of the following tool helped George in the above scenario to perform an ARP poisoning attack?
+
+A. Netstat
+B. LUCY
+C. Ettercap
+D. Trape
+C. Ettercap
+
+
+Which of the following GUI tools helps attackers sniff live network traffic from Ethernet and provides filters for customized data display?
+
+A. hping3
+B. LOIC
+C. OWASP ZAP
+D. Wireshark
+D. Wireshark
+
+
+Which of the following tool helps an attacker perform an ARP poisoning attack?
+
+A. BetterCAP
+B. Nbstat
+C. High Orbit Ion Cannon
+D. Wireshark
+A. BetterCAP
+
+
+Which of the following countermeasures helps security teams defend against sniffing attacks?
+
+A. use a hub instead of a switch
+B. always broadcast SSIDs
+C. use static IP addresses and ARP tables
+D. retrieve MAC addresses directly from OS instead of the NICs
+C. use static IP addresses and ARP tables
+
+
+Which of the following practices is NOT a countermeasure for defending against sniffing attacks?
+
+A. always use FTP for transferring files
+B. use HTTPS instead of HTTP to protect usernames and passwords
+C. always encrypt the wireless traffic with a strong encryption protocol such as WPA or WPA2
+D. use tools to determine if any NICs are running in promiscuous mode
+A. always use FTP for transferring files
+
+
+Which of the following techniques is useful in detecting a system that runs in promiscuous mode and in turn helps detect sniffers installed on the network?
+
+A. Ping method
+B. DNS poisoning
+C. ARP spoofing
+D. SYN flooding
+A. Ping method
+
+
+Which of the following practices is NOT a countermeasure for defending against sniffing attacks?
+
+A. avoid broadcasting SSIDs (session set identifiers)
+B. use static IP addresses and ARP tables
+C. change default passwords to complex passwords
+D. always use HTTP to protect username and passwords
+D. always use HTTP to protect username and passwords
+
+
+Identify the technique that sends non-broadcast ARP to all the nodes in the network, and the node that runs in promiscuous mode broadcasts a ping message on the network with the local IP address but a different MAC address.
+
+A. Ping method
+B. ARP method
+C. ARP spoofing
+D. ARP poisoning
+B. ARP method

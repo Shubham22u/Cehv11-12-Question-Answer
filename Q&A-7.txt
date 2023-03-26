@@ -1,0 +1,495 @@
+Which type of intrusion detection system can monitor and alert on attacks, but cannot stop them?
+
+(A) Detective
+(B) Intuitive
+(C) Passive
+(D) Reactive
+C
+
+
+Which solution can be used to emulate computer services, such as mail and ftp, and to capture information related to logins or actions?
+
+(A) Firewall
+(B) Honeypot
+(C) Intrusion Detection System (IDS)
+(D) DeMilitarized Zone (DMZ)
+B
+
+
+Sean who works as a network administrator has just deployed an IDS in his organization's network. Sean deployed an IDS that generates four types of alerts that include: true positive, false positive, false negative, and true negative.In which of the following conditions does the IDS generate a true positive alert?
+
+(A) A true positive is a condition occurring when an event triggers an alarm when no actual attack is in progress.
+(B) A true positive is a condition occurring when an IDS identifies an activity as acceptable behavior and the activity is acceptable.
+(C) A true positive is a condition occurring when an IDS fails to react to an actual attack event.
+(D) A true positive is a condition occurring when an event triggers an alarm and causes the IDS to react as if a real attack is in progress.
+D
+
+
+What is the main advantage that a network-based IDS/IPS system has over a host-based solution?
+
+(A) They are easier to install and configure.
+(B) They are placed at the boundary, allowing them (C) to inspect all traffic.
+(D) They do not use host system resources.
+(E) They will not interfere with user interfaces.
+D
+
+
+Javier is asked to explain to IT management as to why he is suggesting replacing the existing company firewall. Javier states that many external attackers are using forged internet addresses against the firewall and is concerned that this technique is highly effective against the existing firewall. What type of firewall Javier would have deployed?
+
+(A) Circuit-level proxy firewall is deployed because it prevents these types of attacks.
+(B) Host-based firewall is deployed because the attackers are inside the network.
+(C) Host-based firewall is deployed because the attackers are outside the network.
+(D) Packet filtering firewall is deployed because it is unable to prevent these types of attacks.
+A
+
+
+Teyla is a security analyst for BAYARA Company. She is responsible for the firewall, antivirus, IPS, and web filtering security controls. She wants to protect the employees from a new phishing attack.What should Teyla do?
+
+(A) Block outbound traffic to the ports 80 and 443 in the firewall.
+(B) Use the web filtering application to prevent the employees from accessing the phishing webpage.
+(C) Use IPS to block phishing.
+(D) Block the phishing via antivirus.
+B
+
+
+Which of the following is a hardware requirement that either an IDS/IPS system or a proxy server must have in order to properly function?
+
+(A) They must be dual-homed
+(B) Fast network interface cards
+(C) Fast processor to help with network traffic analysis
+(D) Similar RAM requirements
+A
+
+
+Which of the following intrusion detection technique involves first creating models of possible intrusions and then comparing these models with incoming events to make a detection decision?
+
+(A) Protocol Anomaly Detection
+(B) Obfuscating
+(C) Signature Recognition
+(D) Anomaly Detection
+C
+
+
+You are a security expert. What can you do to protect an internal server that does not have antivirus and you cannot install any tools because of performance issues?
+
+(A) Install mandatory controls as internal FW and IPS to protect it.
+(B) Install mandatory controls as external FW and IPS to protect it.
+(C) Install compensatory controls as internal FW and IPS to protect it.
+(D) Install compensatory controls as external FW or IPS to protect it.
+C
+
+
+The intrusion detection system at a software development company suddenly started generating multiple alerts regarding attacks against the company's external webserver, VPN concentrator, and DNS servers. What should the security team do to determine which alerts to check first?
+
+(A) Investigate based on the order that the alerts arrived in.
+(B) Investigate based on the potential effect of the incident.
+(C) Investigate based on the maintenance schedule of the affected systems.
+(D) Investigate based on the service-level agreements of the systems.
+B
+
+
+In network security, an IDS is a system used for monitoring and identifying unauthorized access or abnormal activities on computers or local networks. Which of the following techniques can an attacker use to escape detection by the IDS?
+
+(A) Covert channel
+(B) Encrypted Traffic
+(C) Eavesdropping
+(D) Vlan hopping
+B
+
+
+Which of the statements concerning proxy firewalls is correct?
+
+(A) Firewall proxy servers decentralize all activity for an application.
+(B) Computers establish a connection with a proxy firewall that initiates a new network connection for the client.
+(C) Proxy firewalls increase the speed and functionality of a network.
+(D) Proxy firewalls block network packets from passing to and from a protected network.
+B
+
+
+Which protocol and port number might be needed to send log messages to a log analysis tool that resides behind a firewall?
+
+(A) UDP 514
+(B) UDP 123
+(C) UDP 415
+(D) UDP 541
+A
+
+
+Jamie is asked to create firewall policies for two new software solutions. The new software solutions will give employees access to their payroll data and live company stock performance. The payroll system is located at 10.7.2.155 using port 5789 webpage.While the stock data system is located at 10.7.2.158 using port 5479 webpage, existing servers used by the employees are located at 10.7.2.0/24. The employees are placed in two buildings with subnets of 10.7.40.0/24Of the following options, which will provide more granular access:
+
+(A) Add any 10.7.2.155 5789 eq www permit any 10.7.2.158 5479 eq www permit
+(B) Add any 10.7.2.0/24 eq www permit any 10.7.2.0/24 eq www permit
+(C) Add any 10.7.2.155 5789 permit any 10.7.2.158 5479 permit
+(D) Add any 10.7.2.155 eq www permit any 10.7.2.158 eq www permit
+A
+
+
+A circuit-level gateway works at which of the following layers of the OSI model?
+
+(A) Layer 4 - TCP
+(B) Layer 5 - Session
+(C) Layer 2 - Data link
+(D) Layer 3 - Internet protocol
+C
+
+
+Jamie has purchased and deployed an application firewall to protect his company infrastructure which includes various email servers, file server shares, and applications. Also, all the systems in his company share the same onsite physical datacenter. Jamie has positioned the newly purchased firewall nearest to the application systems so as to protect the applications from attackers. This positioning does not protect the complete network.
+
+What can be done to address the security issues by this deployment for Jamie?
+
+(A) Jamie will need to add at least three additional firewalls at the untrusted network, router side, and application side.
+(B) Jamie will need to replace the application firewall with a packet filtering firewall at the network edge.
+(C) Jamie will need to add at least one additional firewall at the network edge.
+(D) Jamie will need to add at least three additional firewalls at the DMZ, internet, and intranet.
+C
+
+
+Which of the following indicator identifies a network intrusion?
+
+(A) Connection requests from IPs from those systems within the network range
+(B) Repeated probes of the available services on your machines
+(C) Sudden decrease in bandwidth consumption is an indication of intrusion
+(D) Rare login attempts from remote hosts
+B
+
+
+Jamie was asked by their director to make new additions to the firewall in order to allow traffic for a new software package. After the firewall changes, Jamie receives calls from users that they cannot access other services, such as email and file shares, that they were able to access earlier.
+
+What was the problem in the latest changes that is denying existing users from accessing network resources?
+
+(A) Jamie should exit privileged mode to allow the settings to be effective.
+(B) Jamie needs to restart the firewall to make the changes effective.
+(C) Jamie's additional entries were processed first.
+(D) Jamie needs to have the users restart their computers in order to make settings effective.
+C
+
+
+When analyzing the IDS logs, the system administrator noticed an alert was logged when the external router was accessed from the administrator's computer to update the router configuration. What type of an alert is this?
+
+(A) True-negative
+(B) False-positive
+(C) True-positive
+(D) False-negative
+B
+
+
+How many bit checksum is used by the TCP protocol for error checking of the header and data and to ensure that communication is reliable?
+
+(A) 14-bit
+(B) 15-bit
+(C) 13-bit
+(D) 16-bit
+D
+
+
+An attacker hides the shellcode by encrypting it with an unknown encryption algorithm and by including the decryption code as part of the attack packet. He encodes the payload and then places a decoder before the payload. Identify the type of attack executed by attacker.
+
+(A) ASCII Shellcode
+(B) Preconnection SYN
+(C) Post-Connection SYN
+(D) Polymorphic Shellcode
+D
+
+
+When analyzing the IDS logs, the system administrator notices connections from outside of the LAN have been sending packets where the source IP address and destination IP address are the same. However, no alerts have been sent via email or logged in the IDS. Which type of an alert is this?
+
+(A) False positive
+(B) True positive
+(C) True negative
+(D) False negative
+D
+
+
+Michel, a professional hacker, is trying to perform an SQL injection attack on the MS SQL database system of the CityInfo, Inc. by bypassing the signature-based IDS. He tried various IDS evasion techniques and finally succeeded with one where he breaks the SQL query into a number of small pieces and uses the + sign to join SQL query end to end.Which of the following IDS evasion techniques he uses to bypass the signature-based IDS?
+
+(A) Hex encoding
+(B) Char encoding
+(C) URL encoding
+(D) String concatenation
+D
+
+
+A network administrator received an administrative alert at 3:00 a.m. from the intrusion detection system. The alert was generated because a large number of packets were coming into the network over ports 20 and 21. During analysis, there were no signs of attack on the FTP servers. How should the administrator understand this situation?
+
+(A) False positives
+(B) True positives
+(C)True negatives
+(D) False negatives
+A
+
+
+When analyzing the IDS logs, the system administrator notices connections from outside of the LAN have been sending packets where the source IP address and destination IP address are the same. However, no alerts have been sent via email or logged in the IDS. Which type of an alert is this?
+
+(A) False negative
+(B) False positive
+(C) True positive
+(D) True negative
+A
+
+
+Eric, a professional hacker, is trying to perform a SQL injection attack on the back-end database system of the InfomationSEC, Inc. During the information gathering process, he identifies that MYSQL server is the back-end database engine used. Eric has tried various SQL injection attack attempts based on the information gathered but all of his attempts failed. Later, he discovered that IPS system is blocking all the SQL injection attack attempts. Eric decided to bypass the IPS using string concatenation IPS evasion technique where he needs to break the SQL query into a number of small pieces and concatenates the SQL query end-to-end.
+
+Which of the following string concatenation operator Eric need to use in the SQL query to concatenate the SQL query end-to-end?
+
+(A) "concat(,)" operator
+(B) "||" operator
+(C) "+" operator
+(D) "&" operator
+A
+
+
+When analyzing the IDS logs, the system administrator noticed an alert was logged when the external router was accessed from the administrator's computer to update the router configuration. What type of an alert is this?
+
+(A) False-positive
+(B) False-negative
+(C) True-negative
+(D) True-positive
+A
+
+
+Which evasion technique is used by attackers to encode the attack packet payload in such a way that the destination host can only decode the packet but not the IDS?
+
+(A) Fragmentation Attack
+(B) Obfuscation
+(C) Unicode Evasion
+(D) Session splicing
+B
+
+
+The use of alert thresholding in an IDS can reduce the volume of repeated alerts, but introduces which of the following vulnerabilities?
+
+(A) Network packets are dropped if the volume exceeds the threshold.
+(B) Thresholding interferes with the IDS' ability to reassemble fragmented packets.
+(C) The IDS will not distinguish among packets originating from different sources.
+(D) An attacker, working slowly enough, can evade detection by the IDS.
+D
+
+
+A network administrator received an administrative alert at 3:00 a.m. from the intrusion detection system. The alert was generated because a large number of packets were coming into the network over ports 20 and 21. During analysis, there were no signs of attack on the FTP servers. How should the administrator understand this situation?
+
+(A) False negatives
+(B) False positives
+(C) True negatives
+(D) True positives
+B
+
+
+Which network-level evasion method is used to bypass IDS where an attacker splits the attack traffic in too many packets so that no single packet triggers the IDS?
+
+(A) Session splicing
+(B) Unicode evasion
+(C) Fragmentation attack
+(D) Overlapping fragments
+A
+
+
+Check Point's FireWall-1 listens to which of the following TCP ports?
+
+(A) 1080
+(B) 1745
+(C) 1072
+(D) 259
+D
+
+
+Which method of firewall identification has the following characteristics:
+- uses TTL values to determine gateway ACL filters
+- maps networks by analyzing IP packet response
+- probes ACLs on packet filtering routers/firewalls using the same method as trace-routing
+- sends TCP or UDP packets into the firewall with TTL value is one hop greater than the targeted firewall
+
+(A) Port Scanning
+(B) Source Routing
+(C) Banner Grabbing
+(D) Firewalking
+D
+
+
+Which feature of Secure Pipes tool open application communication ports to remote servers without opening those ports to public networks?
+
+(A) SOCKS proxies
+(B) Local forwards
+(C) Remote forwards
+(D) Remote backwards
+B
+
+
+Which term is used to refer service announcements provided by services in response to connection requests and often carry vendor's version of information?
+
+(A) Network discovery phase
+(B) Banner
+(C) Port
+(D) Scanning phase
+B
+
+
+Which of the following tools is used to execute commands of choice by tunneling them inside the payload of ICMP echo packets if ICMP is allowed through a firewall?
+
+(A) Anonymizer
+(B) AckCmd
+(C) HTTPTunnel
+(D) Loki
+D
+
+
+Which of the following is a two-way HTTP tunneling software tool that allows HTTP, HTTPS, and SOCKS tunneling of any TCP communication between any client-server systems?
+
+(A) Bitvise
+(B) Secure Pipes
+(C) Loki
+(D) Super network tunnel
+D
+
+
+An attacker sends an e-mail containing a malicious Microsoft office document to target WWW/FTP servers and embed Trojan horse files as software installation files, mobile phone software, and so on to lure a user to access them.Identify by which method the attacker is trying to bypass the firewall.
+
+(A) Bypassing firewall through MITM attack
+(B) Bypassing WAF using XSS attack
+(C) Bypassing firewall through content
+(D) Bypassing firewall through external systems
+C
+
+
+Firewalk has just completed the second phase (the scanning phase) and a technician receives the output shown below.
+What conclusions can be drawn based on these scan results?
+
+TCP port 21—no response
+TCP port 22—no response
+TCP port 23—Time-to-live exceeded
+
+(A) The scan on port 23 was able to make a connection to the destination host prompting the firewall to respond with a TTL error.
+(B) The firewall itself is blocking ports 21 through 23 and a service is listening on port 23 of the target host.
+(C) The lack of response from ports 21 and 22 indicate that those services are not running on the destination server.
+(D) The scan on port 23 passed through the filtering device. This indicates that port 23 was not blocked at the firewall.
+D
+
+
+Which of the following is a hijacking technique where an attacker masquerades as a trusted host to conceal his identity, hijack browsers or websites, or gain unauthorized access to a network?
+
+(A) Source routing
+(B) IP address spoofing
+(C) Port-scanning
+(D) Firewalking
+B
+
+
+A pentester gains access to a Windows application server and needs to determine the settings of the built-in Windows firewall. Which command would be used?
+
+(A) Net firewall show config
+(B) Ipconfig firewall show config
+(C) WMIC firewall show config
+(D) Netsh firewall show config
+D
+
+
+Siya is using a tool to defend critical data and applications without affecting performance and productivity. Following are the features of the tool:
+
+- Pre-built, real-time reports that display big-picture analyses on traffic, top applications, and filtered attack events.
+- Permits to see, control, and leverage the rules, shared services, and profiles of all the firewall devices throughout the network.
+- Comprises of in-line, bump-in-the-wire intrusion prevention system with layer two fallback capabilities.
+- Gives an overview of current performance for all HP systems in the network, including launch capabilities into targeted management applications by using monitors.
+
+Identify the tool used by Siya-
+
+(A) Wifi Inspector
+(B) TippingPoint IPS
+(C) AlienVault® OSSIM™
+(D) Zimperium's zIPS™
+B
+
+
+Riya wants to defend against the polymorphic shellcode problem. What countermeasure should she take against this IDS evasion technique?
+
+(A) Catalog and review all inbound and outbound traffic
+(B) Configure a remote syslog server and apply strict measures to protect it from malicious users.
+(C) Disable all FTP connections to or from the network
+(D) Look for the nop opcode other than 0x90
+D
+
+
+Which of the following is not an action present in Snort IDS?
+
+(A) Pass
+(B) Audit
+(C) Log
+(D) Alert
+B
+
+
+Which honeypot detection tools has following features:
+- Checks lists of HTTPS, SOCKS4, and SOCKS5 proxies with any ports
+- Checks several remote or local proxylists at once Can upload "Valid proxies" and "All except honeypots" files to FTP
+- Can process proxylists automatically every specified period
+- May be used for usual proxylist validating as well
+
+(A) WAN Killer
+(B) Ostinato
+(C) Send-Safe Honeypot Hunter
+(D) WireEdit
+C
+
+
+Jamie is an on-call security analyst. He had a contract to improve security for the company's firewall. Jamie focused specifically on some of the items on the security of the Company's firewall. After working for some time on the items, Jamie creates the following list to fix them:
+1. Set ssh timeout to 30 minutes.
+2. Set telnet timeout to 30 minutes.
+3. Set console timeout to 30 minutes.
+4. Set login password retry lockout.
+Which task should Jamie perform if he has time for just one change before leaving the organization?
+
+(A) Set console timeout to 30 minutes.
+(B) Set ssh timeout to 30 minutes.
+(C) Set login password retry lockout.
+(D) Set telnet timeout to 30 minutes.
+C
+
+
+In what way do the attackers identify the presence of layer 7 tar pits?
+
+(A) By looking at the responses with unique MAC address 0:0:f:ff:ff:ff
+(B) By analyzing the TCP window size
+(C) By looking at the IEEE standards for the current range of MAC addresses
+(D) By looking at the latency of the response from the service
+D
+
+
+Manav wants to simulate a complete system and provide an appealing target to push hackers away from the production systems of his organization. By using some honeypot detection tool, he offers typical Internet services such as SMTP, FTP, POP3, HTTP, and TELNET, which appear perfectly normal to attackers. However, it is a trap for an attacker by messing them so that he leaves some traces knowing that they had connected to a decoy system that does none of the things it appears to do; but instead, it logs everything and notifies the appropriate people.
+
+Can you identify the tool?
+
+(A) TinyWall
+(B) SPECTER
+(C) Glasswire
+(D) PeerBlock
+B
+
+
+Which of the following firewall solution tool has the following features:
+● Two-way firewall that monitors and blocks inbound as well as outbound traffic
+● Allows users to browse the web privately
+● Identity protection services help to prevent identity theft by guarding crucial data of the users. It also offers PC protection and data encryption
+● Through Do Not Track, it stops data-collecting companies from tracking the online users
+● Online Backup to backs up files and restores the data in the event of loss, theft, accidental deletion or disk failure
+
+(A) zIPS
+(B) Vangaurd Enforcer
+(C) ZoneAlarm PRO FIREWALL 2018
+(D) Wifi Inspector
+C
+
+
+Which of the following firewalls is used to secure mobile device?
+
+(A) Comodo firewall
+(B) TinyWall
+(C) Glasswire
+(D) NetPatch firewall
+D
+
+
+When an alert rule is matched in a network-based IDS like snort, the IDS does which of the following.
+
+(A) Drops the packet and moves on to the next one
+(B) Blocks the connection with the source IP address in the packet
+(C) Stops checking rules, sends an alert, and lets the packet continue
+(D) Continues to evaluate the packet until all rules are checked
+D

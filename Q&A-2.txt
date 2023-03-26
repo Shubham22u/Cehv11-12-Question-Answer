@@ -1,0 +1,452 @@
+What tool is an advanced social search engine that displays shared activity across all major social networks including Twitter, Facebook, LinkedIn, Google Plus, and Pinterest?
+BuzzSumo
+
+
+What tool provides detailed tracking and analysis data of a website?
+Web-Stat
+
+
+What tool allows you to discover a target user on various social networking sites, along with complete URLs?
+Sherlock
+
+
+Which of the following is the Google dork that helps an attacker find the configuration pages for online VoIP devices?
+
+1. intitle:"Login Page" intext:"Phone Adapter Configuration Utility"
+2. intitle:"SPA504G Configuration"
+3. intitle:"Sipura.SPA.Configuration" -.pdf
+4. inurl:/voice/advanced/ intitle:Linksys SPA configuration
+3. intitle:"Sipura.SPA.Configuration" -.pdf
+
+
+What deep and dark web searching tool helps an attacker obtain information about official government or federal databases and navigate anonymously without being traced?
+ExoneraTor
+
+
+What web services is a repository that contains a collection of user-submitted notes or messages on various subjects and topics?
+NNTP Usenet newsgroups
+
+
+What DNS record types indicates the authority for a domain of the target DNS server?
+SOA
+
+
+What tool allows you to create a custom wordlist based on the content of one or more webpages?
+cewl
+
+
+What tool is used for gathering email account information from different public sources and checking whether an email was leaked using the haveibeenpwned.com API?
+infoga
+
+
+What Google dork returns a list of FTP servers by IP address, which are mostly Windows NT servers with guest login capabilities?
+inurl:~/ftp://193 filetype:(php | txt | html | asp | xml | cnf | sh) ~'/html'
+
+
+What Google search query can you use to find mail lists dumped on pastebin.com?
+site:pastebin.com intext:@.com:*
+
+
+Which one of the following is a Google search query used for VoIP footprinting to extract Cisco phone details?
+
+1. inurl:"NetworkConfiguration" cisco
+2. inurl:"ccmuser/logon.asp"
+3. intitle:"D-Link VoIP Router" "Welcome"
+4. inurl:/voice/advanced/ intitle:Linksys SPA configuration
+inurl:"NetworkConfiguration" cisco
+
+
+What is the query and response protocol used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name, an IP address block, or an autonomous system?
+Whois lookup
+
+
+Which of the following Google dorks is used by an attacker to find Cisco VPN client passwords?
+
+1. filetype:pcf "cisco" "GroupPwd"
+2 .filetype:pcf vpn OR Group
+3. "Config" intitle:"Index of" intext:vpn
+4. "[main]" "enc_GroupPwd=" ext:txt
+4. "[main]" "enc_GroupPwd=" ext:txt
+
+
+Which OSRFramework tool allows an attacker to query the included OSRFramework-included platforms (Github, Twitter, etc.)?
+searchfy.py
+
+
+Which OSRFramework tool allows an attacker to check for a user profile on up to 290 platforms (social media, etc.)?
+usufy.py
+
+
+Which OSRFramework tool allows an attacker to check for the existence of a given email address?
+mailfy.py
+
+
+Which OSRFramework tool allows an attacker to check for the existence of a domain(s)?
+domainfy.py
+
+
+Which OSRFramework tool allows an attacker to check for the existence of a series of phones?
+phonefy.py
+
+
+Which OSRFramework tool allows an attacker to use regular expressions to extract entities?
+entify.py
+
+
+Which of the following utilities is used by Recon-Dog to detect technologies existing in the target system?
+
+1. Whois lookup
+2. wappalyzer.com
+3. shodan.io
+4. findsubdomains.com
+wappalyzer.com
+
+
+What flag of Sublist3r allows the user to specify a comma-separated list of search engines?
+-e
+
+
+What subdomain discovery tool uses the Alexa Top 1 Million subdomains list?
+Bluto
+
+
+Which of the following features in FOCA allows an attacker to find more servers in the same segment of a determined address?
+
+1. IP resolution
+2. Web search
+3. PTR scanning
+4. DNS search
+PTR scanning
+
+
+What kind of footprinting involves gathering information about a target without direct interaction?
+Passive footprinting
+
+
+What kind of footprinting involves gathering information about a target with direct interaction?
+Active footprinting
+
+
+Which Google Hacking operator filters the results for files that end in a particular extension?
+filetype:<extension>
+
+
+Which Google Hacking operator displays web pages stored in the Google cache?
+cache
+
+
+What Google Hacking operator lists web pages that have links to the specified web page?
+link:<web page>
+
+
+What Google Hacking operator lists web pages that are similar to the specified web page?
+related:<web page>
+
+
+What Google Hacking operator presents some information that Google has about a particular web page?
+info
+
+
+Which Google Hacking operator restricts the results to those websites in the given domain?
+site
+
+
+What Google Hacking operator restricts the results to those websites containing all the search keywords in the title?
+allintitle
+
+
+What Google Hacking operator restricts the results to documents containing the search keyword in the title?
+intitle
+
+
+What Google Hacking operator restricts the results to those containing all the search keywords in the URL?
+allinurl
+
+
+What Google Hacking operator restricts the results to documents containing at least one of the search in the URL?
+inurl
+
+
+What Google Hacking operator finds information for a specific location?
+location
+
+
+What is sublist3r used for?
+Subdomain discovery
+
+
+What is netcraft.com used for?
+Subdomain discovery
+
+
+What is Intelius used for?
+People searching
+
+
+What is pipl used for?
+People searching
+
+
+What is BeenVerified used for?
+People searching
+
+
+What is WhitePages used for?
+People searching
+
+
+What is PeekYou used for?
+People searching
+
+
+What tool does the material recommend for performing enumeration on LinkedIn?
+theHarvester
+
+
+What is theHarvester used for?
+1. Gathering email addresses
+2. LinkedIn enumeration
+
+
+What is EmailSpider used for?
+Gathering email addresses
+
+
+What is Dice?
+A job site service
+
+
+What is Simply Hired?
+A job site service
+
+
+What is Tor Browser used for?
+Browsing and searching the deep and dark web
+
+
+What is ExoneraTor used for?
+Browsing and searching the deep and dark web
+
+
+What is the network of web pages and contents that are hidden and unindexed and thus cannot be accessed using traditional web browsers and search engines?
+The deep web
+
+
+What is the subset of the deep web that enables anyone to navigate anonymously without being traced
+The dark web
+
+
+What is opencorporates?
+A business profile site
+
+
+What is Crunchbase?
+A business profile site
+
+
+What are the 2 Usenet newsgroups the material recommends for finding valuable information about the target organization?
+1. Newshosting
+2. Eweka
+
+
+What tool allows you to search for content in social networks in real-time and provides deep analytics data?
+SocialSearcher
+
+
+What tool is used to search a vast number of social networking sites for a target username?
+Sherlock
+
+
+What 4 tools/services does the material recommend for footprinting the technologies behind websites?
+1. BurpSuite
+2. Zaproxy
+3. Wappalyzer
+3. Website Informer
+
+
+What 2 tools/services does the material recommend for spidering target websites to collect information about the target organization, like employee names and email addresses?
+1. Web Data Extractor
+2. ParseHub
+
+
+What 2 tools does the material recommend for performing user-directed spidering of websites?
+1. BurpSuite
+2. WebScarab
+
+
+What 3 tools does the material recommend for downloading a website into a local directory, recursively building all directories, HTML, images, flash, videos, and other files from the server to your computer?
+1. HTTRack
+2. Web Site Copier
+3. NCollector Studio
+
+
+What service allows you to visit archived versions of websites?
+The Internet Archive's Wayback Machine: https://archive.org
+
+
+What 3 tools does the material recommend for extracting linked images, scripts, iframes, and URLs of a target website?
+1. Octoparse
+2. Netpeak Spider
+3. Link Extractor
+
+
+What 3 tools does the material recommend for extracting metadata from various types of files (pdf, doc, xls, ppt, docx, pptx, xlsx, etc.)
+1. Metagoofil
+2. Exiftool
+3. Web Data Extractor
+
+
+What 2 tools does the material recommend for monitoring websites for updates and changes?
+1. WebSite-Watcher
+2. VisualPing
+
+
+The purpose of what is to monitor the delivery of emails to an intended recipient for the purpose of gathering information about the recipient, such as their IP address, geolocation, browser, and operating system details?
+Email tracking
+
+
+What are the 4 email tracking tools recommended by the material?
+1. eMailTrackerPro
+2. Infoga
+3. Mailtrack
+4. PoliteMail
+
+
+What 2 tools does the material recommend for finding IP geolocation information?
+1. IP2Location
+2. IP Location Finder
+
+
+What type of DNS record's purpose is to point to the domain's name server?
+NS record
+
+
+What type of DNS record's purpose is to serve as a canonical hostname to an IP address, allowing multiple alias hostnames to map to a particular IP address?
+CNAME record
+
+
+What type of DNS record's purpose is to indicate the authority for a domain?
+SOA record
+
+
+What type of DNS record is a service record?
+SRV record
+
+
+What type of DNS record's purpose is to map an IP address to a hostname?
+PTR record
+
+
+What type of DNS record's purpose is to map a responsible person?
+RP record
+
+
+What type of DNS record's purpose is to include information about a host, including CPU type and operating system?
+HINFO record
+
+
+What type of DNS record's purpose is to include unstructured, arbitrary text?
+TXT record
+
+
+What tool does the material recommend for performing a reverse DNS lookup?
+DNSRecon
+
+
+What tool does the material recommend for finding other domains that share the same web server?
+Reverse IP Domain Check
+
+
+What 2 tools does the material recommend for locating the network range of the target organization?
+1. The ARIN Whois database search tool
+2. Regional Internet Registry (RIR)
+
+
+What traceroute tool delivers network route tracing with performance tests, DNS, Whois, and network resolution?
+Path Analyzer Pro
+
+
+What traceroute tool identifies the geographical location of routers, servers, and other IP devices to give a visual representation of the route?
+VisualRoute
+
+
+What form of social engineering indicates unauthorized listening?
+Eavesdropping
+
+
+What form of social engineering indicates secret observing?
+Shoulder surfing
+
+
+What form of social engineering indicates looking for valuable information in the target's physical property?
+Dumpster diving
+
+
+What form of social engineering indicates pretending to be an authorized person?
+Impersonation
+
+
+What footprinting tool can be used to determine the relationships and real world links between people, groups of people, organizations, websites, Internet infrastructure, documents, etc.?
+Maltego
+
+
+What is the web reconnaissance framework with independent modules and database interaction which provides an environment in which open source, web-based reconnaissance can be conducted?
+Recon-ng
+
+
+What tool is mainly used to find metadata and hidden information in the documents it scans?
+Fingerprinting Organizations with Collected Archives (FOCA)
+
+
+What framework includes applications related to username checking, DNS lookups, information leaks research, deep web search, regular expressions extraction, etc.?
+OSRFramework
+
+
+What Internet marketing company provides tools to assist sales representatives with researching target markets, planning territories, and generating new business leads?
+ZoomInfo
+
+
+What is Hootsuite used for?
+Managing profiles across multiple social media platforms
+
+
+What is MEDUSA used for?
+Gathering OSINT data from social media platforms
+
+
+What is the Regional Internet Registry for the United States and Canada?
+ARIN
+
+
+What is the Regional Internet Registry for Mexico and South America?
+LACNIC
+
+
+What is the Regional Internet Registry for Europe and the Middle East?
+RIPE NCC
+
+
+What is the Regional Internet Registry for Asia and Australia?
+APNIC
+
+
+What is the Regional Internet Registry for Africa?
+AFRINIC
+
+
+What is the extension of Cisco VPN configuration files?
+.pcf
+
+
+What tool can perform DNS enumeration and uses Shodan to perform queries?
+InstaRecon
+
+
+What DNS enumeration tool can query a target domain for MX and NS records, perform an Authoritative Transfer (AXFR) query to discover subdomains, and can brute force subdomains using the top 20,000 subdomains from the Alexa Top 1 Million subdomains list? This tool also includes an email enumeration feature that can use search engines, the Email Hunter service, and the haveibeenpwned API.
+Bluto
+
+
+What tool provides Internet security services, including anti-fraud and anti-phishing services, application testing, and PCI testing?
+Netcraft
+
+

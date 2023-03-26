@@ -1,0 +1,117 @@
+Volumetric Attacks
+These attacks exhaust the bandwidth either within the target network/service, or between the target network/service and the rest of the Internet, and result in traffic blockage preventing access to legitimate users. The magnitude of attack is measured in bits per second (bps). Volumetric DDoS attacks generally target protocols that are stateless and do not have built-in congestion avoidance. Generation of a large number of packets can cause the consumption of all the bandwidth on the network.
+
+A single machine cannot make enough requests to overwhelm network equipment. Hence, in DDoS attacks, the attacker uses several computers to flood a victim. In this case, the attacker can control all the machines and instruct them to direct traffic to the target system. DDoS attacks flood a network overwhelming network equipments such as switches and routers with the significant statistical change in the network traffic. Attackers use the processing power of a large number of geographically distributed machines to generate huge traffic directed to the victim, which makes it a DDoS attack.
+
+There are two types of bandwidth depletion attacks:
+
+o A flood attack involves zombies sending large volumes of traffic to victim's systems in order to clog these systems' bandwidth
+o An amplification attack engages the attacker or zombies to transfer messages to a broadcast IP address. This method amplifies malicious traffic that consumes victim systems' bandwidth.
+
+
+Protocol Attacks
+Apart from volumetric attacks which consumes bandwidth, attackers can also prevent access to a target by consuming other types of resources such as connection state tables. Protocol DDoS attacks exhaust resources available on the target or on a specific device between the target and the Internet. These attacks consume the connection state tables present in the network infrastructure devices such as load-balancers, firewalls, and application servers, and no new connections will be allowed since the device will be waiting for existing connections to close or expire. The magnitude of attack is measured in packets per second (pps) or connections per second (cps). These attacks can even take over state of millions of connections maintained by high capacity devices.
+Following are some of the protocol attack techniques:
+o SYN flood attack
+o ACK flood attack
+o TCP connection flood attack
+o TCP state exhaustion attack
+o Fragmentation attack
+o RST attack
+
+
+UDP Flood Attack
+In a UDP flood attack, an attacker sends spoofed UDP packets at a very high packet rate to a remote host on random ports of a target server and by using a large source IP range. Flooding of UDP packets causes server to check repeatedly for nonexistent applications at the ports.
+Legitimate applications are inaccessible by the system and gives an error reply with an ICMP "Destination Unreachable" packet. This attack consumes network resources and available bandwidth, exhausting the network until it goes offline.
+
+
+ICMP Flood Attack
+Network administrators use ICMP primarily for IP operations, troubleshooting, and error
+messaging of undeliverable packets. In this attack, attackers send large volumes of ICMP echo request packets to a victim's system directly or through reflection networks. These packets signal the victim's system to reply, and the combination of traffic saturates the bandwidth of the victim's network connection causing it to be overwhelmed and subsequently stop responding to the legitimate TCP/IP requests.
+To protect against ICMP flood attack, set a threshold limit that when it exceeds, it invokes the ICMP flood attack protection feature. When the ICMP threshold exceeds (by default the threshold value is 1000 packets/second), the router rejects further ICMP echo requests from all addresses in the same security zone for the remainder of the current second and the next second as well.
+
+
+Ping of Death Attack
+In a Ping of Death (PoD) attack, an attacker tries to crash, destabilize, or freeze the target system or service by sending malformed or oversized packets using a simple ping command. For instance, the attacker sends a packet that has a size of 65,538 bytes to the target web server. This size of the packet exceeds the size limit prescribed by RFC 791 IP, which is 65,535 bytes. The reassembly process by the receiving system might cause the system to crash. In this type of attacks, the attacker's identity could be easily spoofed, and the attacker might not need detailed knowledge of the target machine he/she was attacking, except its IP address.
+
+
+Smurf Attack
+In a Smurf attack, the attacker spoofs the source IP address with the victim's IP address and sends large number of ICMP ECHO request packets to an IP broadcast network. This causes all the hosts on the broadcast network to respond to the received ICMP ECHO requests. These responses will be sent to the victim's machine since the IP address is spoofed by the attacker. This causes significant traffic to the actual victim's machine, ultimately leading the machine to crash.
+
+
+Fragmentation Attack
+These attacks destroy a victim's ability to reassemble the fragmented packets by flooding it with TCP or UDP fragments, resulting in reduced performance. In fragmentation attacks, the attacker sends large number of fragmented (1500+ byte) packets to a target web server with relatively small packet rate. Since the protocol allows fragmentation, these packets usually pass through the network equipments uninspected such as routers, firewalls, and Intrusion Detection System (IDS)/Intrusion Prevention System (IPS). Reassembling and inspecting these large fragmented packets consumes excessive resources. Moreover, the content in the packet fragments will be randomized by the attacker, which makes the process to consume more resource in turn leading the system to crash.
+
+
+HTTP GET/POST Attack
+HTTP attacks are layer 7 attacks. HTTP clients, such as web browsers, connect to a web server through HTTP protocol to send HTTP requests. These requests can be either HTTP GET or HTTP POST. Attackers exploit these requests to perform DoS attacks.
+In a HTTP GET attack, the attacker uses time delayed HTTP header to hold on to HTTP connection and exhaust web server resources. The attacker never sends full request to the target server. As a result, server holds on to the HTTP connection and keeps waiting making the server down for the legitimate users. In these types of attacks, all the network parameters will look good but the service will be down.
+In a HTTP POST attack, the attacker sends the HTTP requests with complete headers but incomplete message body to the target web server or application. Since the message body is incomplete, the server keeps waiting for the rest of the body thereby making the web server or web application not available to the legitimate users.
+This is a sophisticated layer 7 attack, which does not use malformed packets, spoofing, or reflection techniques. This type of attack requires less bandwidth than that of other attacks to bring down the targeted site or web server.
+The aim of this attack is to compel the server to allocate as many resources as possible to serve the attack, thus denying legitimate users access to the server's resources.
+
+
+Slowloris Attack
+Slowloris is a DDoS attack tool. It is used to perform layer 7 DDoS attack to take down web infrastructure. It is distinctly different from other tools, where it uses perfectly legitimate HTTP traffic to take down a target server. In case of Slowloris attack, the attacker sends partial HTTP requests to the target web server or application. Upon receiving the partial requests, the target server opens multiple connections and keeps waiting for the requests to be complete. These requests will not be complete, and as a result, the target server's maximum concurrent connection pool will be filled up and additional attempts of connection will be denied.
+
+
+Multi-Vector Attack
+In multi-vector DDoS attacks, the attackers use combinations of volumetric, protocol, and
+application-layer attacks to take down the target system or service. Attacker quickly changes from one form of DDoS attack (e.g., SYN packets) to another one (Layer 7), and so on. These attacks are either launched one vector at a time, or in parallel, in order to confuse a company's IT department and make them spend all their resources as well as divert their focus to the wrong side.
+
+
+Peer-to-Peer Attack
+A peer-to-peer attack is one form of DDoS attack. In this kind of attack, the attacker exploits a number of bugs in peer-to-peer servers to initiate a DDoS attack. Attackers exploit flaws found in the network that uses DC++ (Direct Connect) protocol, which allows the exchange of files between instant messaging clients. This kind of attack does not use botnets for the attack. Unlike a botnet-based attack, a peer-to-peer attack eliminates the need of attackers to communicate with the clients it subverts. Here, the attacker instructs clients of large peer-to-peer file sharing hubs to disconnect from their peer-to-peer network and instead, to connect to the victim's website. With this, several thousand computers may aggressively try to connect to a target website, which causes a drop in the performance of the target website. It is easy to identify peer-to-peer attacks based on signatures. Using this method, attackers launch massive DoS attacks and compromise websites.
+You can minimize the peer-to-peer DDoS attacks by specifying ports for peer-to-peer communication. For example, specifying port 80 not to allow peer-to-peer communication minimizes the possibility of attacks on websites.
+
+
+Permanent Denial-of-Service Attack
+Permanent DoS (PDoS) attacks, also known as phlashing, purely targets hardware causing irreversible damage to the hardware. Unlike other DoS attacks, it sabotages the system's hardware, requiring the victim to replace or reinstall the hardware. The PDoS attack exploits security flaws in a device, thereby allowing the remote administration on the management interfaces of the victim's hardware, such as printers, routers, or other networking devices.
+This attack is quicker and is more destructive than the traditional DoS attacks. It works with a limited number of resources, unlike a DDoS attack, in which attackers enforce a set of Zombies onto a target. Attackers perform this attack using a method known as "bricking a system." In this method, the attacker sends email, IRC chats, tweets, and posts videos with fraudulent content for hardware updates to the victim by modifying and corrupting the updates with vulnerabilities or defective firmware. When the victim clicks on the links or pop-up windows referring to the fraudulent hardware updates, the victim installs it in his/her system. Thus, the attacker gets complete control over the victim's system.
+
+
+Distributed Reflection Denial of Service (DRDoS)
+A distributed reflection denial of service attack (DRDoS), also known as a "spoofed" attack, involves the use of multiple intermediary and secondary machines that contribute to the actual DDoS attack against the target machine or application. The DRDoS attack exploits the TCP three-way handshake vulnerability.
+This attack involves attacker machine, intermediary victims (zombies), secondary victims (reflectors), and the target machine. Attacker launches this attack by sending requests to the intermediary hosts, which in turn reflects the attack traffic to the target.
+
+
+The process involved in DRDoS attack is as follows:
+First, the attacker commands the intermediary victims (zombies) to send a stream of packets (TCP SYN) with the primary target's IP address as the source IP address to other noncompromised machines (secondary victims or reflectors) to exhort them to establish connection with the primary target. As a result, the reflectors send a huge volume of traffic (SYN/ACK) to the primary target to establish a new connection with it, as they believe it was the host that requested it.
+
+The primary target discards the SYN/ACK packets received from the reflectors, as they did not send the actual SYN packet. The reflectors keep waiting for the acknowledgement (ACK) response from the primary target. Assuming that the packet lost its path, these bunches of reflector machines resend SYN/ACK packets to the primary target in an attempt to establish the connection, until time-out occurs. This way, a heavy volume of traffic is flooded onto the target machine with the available reflector machines.
+
+The combined bandwidth of these reflector machines overwhelms the target machine. DRDoS attack is an intelligent attack, as it is very difficult or even impossible to trace the attacker. The secondary victim (reflector) seems to directly attack the primary target but not the actual attacker. This attack is more effective than a typical DDoS attack as multiple intermediary and secondary victims generate huge attack bandwidth.
+
+
+Random Scanning
+In this technique, the infected machine (an attacker's machine or a zombie) probes IP addresses randomly from the target network's IP range and checks their vulnerability. On finding a vulnerable machine, it breaks into it and tries to infect it by installing the same malicious code installed on it. This technique generates a significant traffic as many compromised machines probe and check the same IP addresses. Malware propagation takes place quickly in the initial stage, and later on, it reduces as the number of new IP addresses available will be less as the time passes.
+
+
+Hit-list Scanning
+Through scanning, an attacker first collects a list of potentially vulnerable machines and then creates a zombie army. Then the attacker performs scanning down the list to find a vulnerable machine. On finding one, the attacker installs a malicious code on it and divides the list in half. In one half, the attacker continues to scan; the other half is given to the newly compromised machine to find the vulnerable machine in its list and continue the same process as discussed before. This goes on simultaneously from an everlasting increasing number of compromised machines. This technique ensures installation of malicious code on all the potential vulnerable machines in the hit list within a short time.
+
+
+Topological Scanning
+This technique uses the information obtained from the infected machine to find new vulnerable machines. An infected host checks for URLs in the disk of a machine that it wants to infect. Then it shortlists the URLs, targets, and checks their vulnerability. This technique yields accurate results, and the performance is similar to the hit-list scanning technique.
+
+
+Permutation Scanning
+In this technique, attackers share a common pseudorandom permutation list of IP addresses among all machines that is created by using a block cipher of 32 bits and a preselected key. If a compromised host has been infected either during hit-list scanning or local subnet scanning, it begins to scan just after its point in the permutation list and scans through the list to identify new targets. In case, if a compromised host is infected during permutation scanning, it starts scanning at a random point. If it encounters an already infected machine, then it chooses a new random start point in the permutation list and proceeds from there. The process of scanning stops when the compromised host encounters a predefined number of already infected machines sequentially failing to find the new targets. Now generate a new permutation key to initiate a new scanning phase.
+
+Following are the advantages:
+o Reinfection of the same target is avoided.
+o New targets are scanned at random (thus ensuring high scanning speed).
+
+
+Central Source Propagation
+In this technique, attacker places attack toolkit on the central source, and copy of the attack toolkit is transferred to the newly discovered vulnerable system. Once the attacker finds a vulnerable machine, he/she instructs the central source to transfer a copy of the attack toolkit to the newly compromised machine, on which automatic installation of attack tools takes place, managed by a scripting mechanism. This initiates a new attack cycle, in which the newly infected machine looks for other vulnerable machine and repeats the same process to install the attack toolkit on it. In general, this technique uses HTTP, FTP, and RPC protocols.
+
+
+Back-Chaining Propagation
+In this technique, attacker places the attack toolkit on his/her system itself, and copy of the attack toolkit is transferred to the newly discovered vulnerable system. The attack tools installed on the attacking machine has some special methods to accept a connection from the compromised system and then transfer a file containing attack tools to it. Simple port listeners (which copy file contents) or full intruder-installed web servers, both of which use the Trivial File Transfer protocol (TFTP) support this back-channel file copy.
+
+
+Autonomous Propagation
+Unlike previously mentioned mechanisms, which transfer the external file source to the attack toolkit, here the attacking host itself transfers the attack toolkit to the newly discovered vulnerable system, exactly at the time it breaks into that system.
+
+

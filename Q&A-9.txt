@@ -1,0 +1,650 @@
+Which of the following is considered as a token to identify a 802.11 (Wi-Fi) network (by default it is the part of the frame header sent over a wireless local area network (WLAN))?
+
+
+SSID
+
+Hotspot
+
+Access Point
+
+Association
+SSID
+
+
+Which of the following is considered as the method of transmitting radio signals by rapidly switching a carrier among many frequency channels?
+
+
+Orthogonal Frequency-division Multiplexing (OFDM)
+
+Multiple input, multiple output orthogonal frequency-division multiplexing (MIMO-OFDM)
+
+Direct-sequence Spread Spectrum (DSSS)
+
+Frequency-hopping Spread Spectrum (FHSS)
+Frequency-hopping Spread Spectrum (FHSS)
+
+
+Which of the following is used to connect wireless devices to a wireless/wired network?
+
+
+Bandwidth
+
+Hotspot
+
+Access point (AP)
+
+Association
+Access point (AP)
+
+
+Which of the following describes the amount of information that may be broadcasted over a connection?
+
+
+Bandwidth
+
+Hotspot
+
+BSSID
+
+Association
+Bandwidth
+
+
+Which of the following networks is used for very long-distance communication?
+
+
+ZigBee
+
+Bluetooth
+
+WiMax
+
+Wi-Fi
+WiMax
+
+
+In which of the following processes do the station and access point use the same WEP key to provide authentication, which means that this key should be enabled and configured manually on both the access point and the client?
+
+
+Open-system authentication process
+
+Shared key authentication process
+
+WPA encryption
+
+WEP encryption
+Shared key authentication process
+
+
+Which type of antenna is used in wireless communication?
+
+
+Omnidirectional
+
+Parabolic
+
+Uni-directional
+
+Bi-directional
+Omnidirectional
+
+
+True or False.
+In LAN-to-LAN Wireless Network, the APs provide wireless connectivity to local computers, and computers on different networks that can be interconnected?
+
+
+True
+
+False
+True
+
+
+In which of the following is the original data signal multiplied with a pseudo random noise spreading code?
+
+
+Orthogonal Frequency-division Multiplexing (OFDM)
+
+Multiple input, multiple output orthogonal frequency-division multiplexing (MIMO-OFDM)
+
+Direct-sequence Spread Spectrum (DSSS)
+
+Frequency-hopping Spread Spectrum (FHSS)
+Direct-sequence Spread Spectrum (DSSS)
+
+
+Which of the following types of antennas is useful for transmitting weak radio signals over very long distances - on the order of 10 miles?
+
+
+Omnidirectional
+
+Parabolic grid
+
+Uni-directional
+
+Bi-directional
+Parabolic grid
+
+
+Which of the following Encryption technique is used in WPA?
+
+
+RSA
+
+TKIP
+
+AES
+
+DES
+TKIP
+
+
+Which of the following protocol encapsulates the EAP within an encrypted and authenticated Transport Layer Security (TLS) tunnel?
+
+
+RADIUS
+
+PEAP
+
+LEAP
+
+CCMP
+PEAP
+
+
+Which of the following consists of 40/104 bit Encryption Key Length?
+
+
+WPA
+
+WEP
+
+RSA
+
+WPA2
+WEP
+
+
+Which of the following is a standard for Wireless Local Area Networks (WLANs) that provides improved encryption for networks that use 802.11a, 802.11b, and 802.11g standards?
+
+
+802.11n
+
+802.11i
+
+802.11d
+
+802.11e
+802.11i
+
+
+WPA2 uses AES for wireless data encryption at which of the following encryption levels?
+
+
+64 bit and CCMP
+
+128 bit and CRC
+
+128 bit and CCMP
+
+128 bit and TKIP
+128 bit and CCMP
+
+
+Donald works as a network administrator with ABCSecurity, Inc., a small IT based firm in San Francisco. He was asked to set up a wireless network in the company premises which provides strong encryption to protect the wireless network against attacks. After doing some research, Donald decided to use a wireless security protocol which has the following features:
+
+Provides stronger data protection and network access control
+Uses AES encryption algorithm for strong wireless encryption]
+Counter Mode Cipher Block Chaining Message Authentication Code Protocol (CCMP)
+Which of the following wireless security protocol did Donald decide to use?
+
+WPA2
+
+WEP
+
+WAP
+
+TKIP
+WPA2
+
+
+Which of the following does not provide cryptographic integrity protection?
+
+
+WEP
+
+WPA
+
+WPA2
+
+TKIP
+WEP
+
+
+Which of the following Encryption techniques is used in WEP?
+
+
+RC4
+
+TKIP
+
+AES
+
+DES
+RC4
+
+
+Which of the following cryptographic algorithms is used by CCMP?
+
+
+AES
+
+DES
+
+RC4
+
+TKIP
+AES
+
+
+Which of the following includes mandatory support for Counter Mode with Cipher Block Chaining Message Authentication Code Protocol (CCMP)?
+
+
+TKIP
+
+WPA2
+
+WPA
+
+WEP
+WPA2
+
+
+There is a WEP encrypted wireless AP with no clients connected. In order to crack the WEP key, a fake authentication needs to be performed. Which of the following steps need to be performed by the attacker for generating fake authentication?
+
+
+Set the wireless interface to monitor mode
+
+Ensure association of source MAC address with the AP
+
+Capture the IVs
+
+Use cracking tools
+Ensure association of source MAC address with the AP
+
+
+In which of the following technique, an attacker draws symbols in public places to advertise open Wi-Fi networks?
+
+
+WarFlying
+
+WarWalking
+
+WarChalking
+
+WarDriving
+WarChalking
+
+
+Steven, a wireless network administrator, has just finished setting up his company's wireless network. He has enabled various security features such as changing the default SSID and enabling strong encryption on the company's wireless router. Steven decides to test the wireless network for confidentiality attacks to check whether an attacker can intercept information sent over wireless associations, whether sent in clear text or encrypted by Wi-Fi protocols. As a part of testing, he tries to capture and decode unprotected application traffic to obtain potentially sensitive information using hardware or software tools such as Ettercap, Kismet, Wireshark, etc. What type of wireless confidentiality attack is Steven trying to do?
+
+
+Eavesdropping
+
+Evil twin AP
+
+Masquerading
+
+WEP Key Cracking
+Eavesdropping
+
+
+Posing as an authorized AP by beaconing the WLAN's SSID to lure users is known as __________.
+
+
+Evil Twin AP
+
+Masquerading
+
+Man-in-the-Middle Attack
+
+Honeypot Access Point
+Evil Twin AP
+
+
+Which of the following availability attacks involve exploiting the CSMA/CA Clear Channel Assessment (CCA) mechanism to make a channel appear busy?
+
+
+Beacon Flood
+
+Routing Attack
+
+Authenticate Flood
+
+Denial-of-Service
+Denial-of-Service
+
+
+John is a pen tester working with an information security consultant based in Paris. As part of a penetration testing assignment, he was asked to perform wireless penetration testing for a large MNC. John knows that the company provides free Wi-Fi access to its employees on the company premises. He sets up a rogue wireless access point with the same SSID as that of the company's Wi-Fi network just outside the company premises. He sets up this rogue access point using the tools that he has and hopes that the employees might connect to it. What type of wireless confidentiality attack is John trying to do?
+
+
+Evil Twin AP
+
+KRACK Attack
+
+War Driving
+
+WEP Cracking
+Evil Twin AP
+
+
+This application is a Wi-Fi security tool for mobile devices, It works on both Root and Non-root devices, and it can prevent ARP spoofing attacks such as MITM attacks, which are used by some applications such as WifiKill, dSploit, and sniffers.
+
+
+WiFiGuard
+
+Airbase-ng
+
+Wifi Inspector
+
+inSSIDer
+WiFiGuard
+
+
+During a wireless penetration test, a tester detects an AP using the WPA2 encryption. Which of the following attacks should be used to obtain the key?
+
+
+The tester must capture the WPA2 authentication handshake and then crack it.
+
+The tester must use the tool inSSIDer to crack it using the ESSID of the network.
+
+The tester cannot crack WPA2 because it is in full compliance with the IEEE 802.11i standard.
+
+The tester must change the MAC address of the wireless network card and then use the AirTraf tool to obtain the key.
+The tester must capture the WPA2 authentication handshake and then crack it.
+
+
+Which of the following Wi-Fi discovery tools facilitates detection of Wireless LANs using the 802.11a/b/g WLAN standards and is commonly used for wardriving, verifying network configurations, finding locations with poor coverage and detecting rouge APs?
+
+
+NetStumbler
+
+WeFi
+
+AirCrack-NG
+
+WifiScanner
+NetStumbler
+
+
+Kenneth, a professional penetration tester, was hired by the XYZ Company to conduct wireless network penetration testing. Kenneth proceeds with the standard steps of wireless penetration testing. He tries to collect lots of initialization vectors (IVs) using the injection method to crack the WEP key. He uses the aircrack-ng tool to capture the IVs from a specific AP. Which of the following aircrack-ng commands will help Kenneth to do this?
+
+
+airodump-ng -c 9 -- bssid 00:14:6C:7E:40:80 -w output ath0
+
+aireplay-ng -9 -e teddy -a 00:14:6C:7E:40:80 ath0
+
+airmon-ng start wifi0 9
+
+aireplay-ng -1 0 -e teddy -a 00:14:6C:7E:40:80 -h 00:0F:B5:88:AC:82 ath0
+airodump-ng -c 9 -- bssid 00:14:6C:7E:40:80 -w output ath0
+
+
+Which of the following bluetooth mode filters out non-matched IACs and reveals itself only to those that matched?
+
+
+Discoverable
+
+Limited discoverable
+
+Non-discoverable
+
+Pairable mode
+Limited discoverable
+
+
+Fill in the blank.
+_________ is the art of collecting information about Bluetooth enabled devices such as manufacturer, device model and firmware version.
+
+
+BluePrinting
+
+Bluejacking
+
+Bluebugging
+
+BlueSniff
+BluePrinting
+
+
+Which of the following protocols is used by BlueJacking to send anonymous messages to other Bluetooth-equipped devices?
+
+
+LMB
+
+OBEX
+
+L2CAP
+
+SDP
+OBEX
+
+
+In which of the following attacks does the attacker exploit the vulnerability in the Object Exchange (OBEX) protocol that Bluetooth uses to exchange information?
+
+
+BlueSniff
+
+Bluesnarfing
+
+Bluejacking
+
+Bluebugging
+Bluesnarfing
+
+
+An attacker collects the make and model of target Bluetooth-enabled devices analyzes them in an attempt to find out whether the devices are in the range of vulnerability to exploit. Identify which type of attack is performed on Bluetooth devices.
+
+
+BlueSniff
+
+Bluebugging
+
+BluePrinting
+
+MAC Spoofing Attack
+BluePrinting
+
+
+Thomas is a cyber thief trying to hack Bluetooth-enabled devices at public places. He decided to hack Bluetooth-enabled devices by using a DoS attack. He started sending an oversized ping packet to a victim's device, causing a buffer overflow and finally succeeded. What type of Bluetooth device attack is Thomas most likely performing?
+
+
+Bluesmacking
+
+Bluejacking
+
+Blue Snarfing
+
+Bluebugging
+Bluesmacking
+
+
+Which of the following terms is used to describe an attack in which an attacker gains remote access to a target Bluetooth-enabled device without the victim being aware of it?
+
+
+Bluesmacking
+
+Bluejacking
+
+Bluesnarfing
+
+Bluebugging
+Bluebugging
+
+
+Which of the following Bluetooth attack allows attacker to gain remote access to a target Bluetooth-enabled device without the victim being aware of it?
+
+
+Bluebugging
+
+Bluesmacking
+
+BluePrinting
+
+Bluejacking
+Bluebugging
+
+
+A large company intends to use Blackberry for corporate mobile phones and a security analyst is assigned to evaluate the possible threats. The analyst will use the Blackjacking attack method to demonstrate how an attacker could circumvent perimeter defenses and gain access to the corporate network. What tool should the analyst use to perform a Blackjacking attack?
+
+
+Paros Proxy
+
+BBProxy
+
+BBCrack
+
+Blooover
+BBProxy
+
+
+In which type of bluetooth threat does an attacker trick Bluetooth users to lower security or disable authentication for Bluetooth connections in order to pair with them and steal information?
+
+
+Bugging Devices
+
+Remote Control
+
+Social Engineering
+
+Malicious Code
+Social Engineering
+
+
+Which of the following countermeasures helps in defending against Bluetooth hacking?
+
+
+Check the wireless devices for configuration or setup problems regularly.
+
+Use non-regular patterns as PIN keys while pairing a device. Use those key combinations that are non-sequential on the keypad.
+
+Place a firewall or packet filter between the AP and the corporate intranet.
+
+Implement an additional technique for encrypting traffic, such as IPSEC over wireless.
+Use non-regular patterns as PIN keys while pairing a device. Use those key combinations that are non-sequential on the keypad.
+
+
+Which of the following is to be used to keep certain default wireless messages from broadcasting the ID to everyone?
+
+
+SSID Cloaking
+
+Bluejacking
+
+Bluesmacking
+
+MAC Spoofing
+SSID Cloaking
+
+
+Which of the following device is used to analyze and monitor the RF spectrum?
+
+
+WIDS
+
+Router
+
+Firewall
+
+Switch
+WIDS
+
+
+Andrew, a professional penetration tester, was hired by ABC Security, Inc., a small IT-based firm in the United States to conduct a test of the company's wireless network. During the information-gathering process, Andrew discovers that the company is using the 802.11 g wireless standard. Using the NetSurveyor Wi-Fi network discovery tool, Andrew starts gathering information about wireless APs. After trying several times, he is not able to detect a single AP. What do you think is the reason behind this?
+
+
+SSID broadcast feature must be disabled, so APs cannot be detected.
+
+NetSurveyor does not work against 802.11g.
+
+Andrew must be doing something wrong, as there is no reason for him to not detect access points.
+
+MAC address filtering feature must be disabled on APs or router.
+SSID broadcast feature must be disabled, so APs cannot be detected.
+
+
+In which of the following layers of wireless security does per frame/packet authentication provide protection against MITM attacks?
+
+
+Device Security
+
+Data Protection
+
+Connection Security
+
+Wireless Signal Security
+Connection Security
+
+
+Which of the following techniques is used to detect rogue APs?
+
+
+RF Scanning
+
+Passphrases
+
+AES/CCMP encryption
+
+Non-discoverable mode
+RF Scanning
+
+
+Which of the following countermeasure helps in defending against KRACK attack?
+
+
+Enable MAC address filtering on access points or routers
+
+Turn On auto-updates for all the wireless devices and patch the device firmware
+
+Choose Wired Equivalent Privacy (WEP) instead of Wi-Fi Protected Access (WPA)
+
+Enable SSID broadcasts
+Turn On auto-updates for all the wireless devices and patch the device firmware
+
+
+Mark is working as a penetration tester in InfoSEC, Inc. One day, he notices that the traffic on the internal wireless router suddenly increases by more than 50%. He knows that the company is using a wireless 802.11 a/b/g/n/ac network. He decided to capture live packets and browse the traffic to investigate the issue to find out the actual cause. Which of the following tools should Mark use to monitor the wireless network?
+
+
+CommView for WiFi
+
+WiFiFoFum
+
+BlueScanner
+
+WiFish Finder
+CommView for WiFi
+
+
+Which of the following techniques is used by network management software to detect rogue APs?
+
+
+RF scanning
+
+Wired side inputs
+
+AP scanning
+
+Virtual-private-network
+Wired side inputs
+
+
+Which of the following countermeasures helps in defending against WPA/WPA2 cracking?
+
+
+Avoid using public Wi-Fi networks
+
+Make sure to enable two factor authentication
+
+Change the default SSID after WLAN configuration
+
+Select a random passphrase that is not made up of dictionary words
+Select a random passphrase that is not made up of dictionary words

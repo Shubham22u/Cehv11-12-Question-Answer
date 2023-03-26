@@ -1,0 +1,603 @@
+For messages sent through an insecure channel, a properly implemented digital signature gives the receiver reason to believe the message was sent by the claimed sender. While using a digital signature, the message digest is encrypted with which key?
+Sender's private key
+
+
+Which of the following is the entity in the NIST cloud deployment reference architecture that manages cloud services in terms of use, performance, and delivery and maintains the relationship between cloud providers and consumers?
+Cloud broker
+
+
+Which of the following hping command performs UDP scan on port 80?
+hping3 -2 <IP Address> -p 80
+
+
+Which of the following DNS records allows attackers to map the IP address to a hostname?
+NS
+
+
+Which of the following Encryption techniques is used in WEP?
+RC4
+
+
+Which of the following commands is an example of a Snort rule using a bidirectional operator?
+log !192.168.1.0/24 any <> 192.168.1.0/24 23
+
+
+Which of the following types of attack is a cross-protocol weakness that can communicate and initiate an attack on servers supporting recent SSLv3/TLS protocol suites?
+DROWN attack
+
+
+Which of the following is not a defensive measure for web server attacks?
+Configure IIS to accept URLs with "../"
+
+
+Which of the following tool determines the OS of the queried host by looking in detail at the network characteristics of the HTTP response received from the website?
+Netcraft
+
+
+Which of the following DoS attack detection techniques analyzes network traffic in terms of spectral components? It divides incoming signals into various frequencies and examines different frequency components separately.
+Wavelet-based signal analysis
+
+
+Allen, a security professional in an organization, was suspicious about the activities in the network and decided to scan all the logs. In this process, he used a tool that automatically collects all the event logs from all the systems present in the network and transfers the real-time event logs from the network systems to the main dashboard.
+
+Which of the following tools did Allen employ in the above scenario?
+Splunk
+
+
+Which assessment focuses on transactional web applications, traditional client-server applications, and hybrid systems?
+Application assessment
+
+
+Given below are the different phases involved in the web API hacking methodology.
+
+1. Detect security standards
+2. Identify the target
+3. Launch attacks
+4. Identify the attack surface
+
+What is the correct sequence of phases followed in the web API hacking methodology?
+2 1 4 3
+
+
+Which of the following techniques is used to gather information about the target without direct interaction with the target?
+Passive footprinting
+
+
+Name an attack where the attacker connects to nearby devices and exploits the vulnerabilities of the Bluetooth protocol to compromise the device?
+BlueBorne attack
+
+
+Which of the following Nmap commands is used by an attacker to perform an IP protocol ping scan on a target device?
+# nmap -sn -PO <target IP address>
+
+
+Which of the following methods allows users to attain privileged control within Android's subsystem, resulting in the exposure of sensitive data?
+Rooting
+
+
+Which of the following tools is used by an attacker to determine the relationships and real-world links among people, organizations, websites, Internet infrastructure, and documents?
+Maltego
+
+
+Which of the following GNU radio tools is used to capture and listen to incoming signals on an audio device?
+uhd_rx_nogui
+
+
+Which of the following scanning techniques used by attackers involves resetting the TCP connection between a client and server abruptly before the completion of the three-way handshake signals?
+Stealth scan
+
+
+During a penetration test, Marin discovered a session token that had had the content: 20170801135433_Robert. Why is this session token weak, and what is the name used for this type of vulnerability?
+Predictable Session Token
+
+
+Which of the following static malware analysis techniques provides information about the basic functionality of any program and is also used to determine the harmful actions that a program can perform?
+Malware disassembly ?
+
+
+In which of the following types of injection attack does an attacker inject carriage return (\r) and linefeed (\n) characters into user input to trick a web server, web application, or user?
+CRLF injection
+
+
+Edward, a security professional in an organization, was instructed by higher officials to calculate the severity of the organization's systems. In the process, he used CVSS, a published standard that provides an open framework for communicating the characteristics and impacts of IT vulnerabilities. He used three metrics provided by CVSS for measuring vulnerabilities.
+
+Which of the following CVSS metrics represents the features that continue to change during the lifetime of the vulnerability?
+Temporal metric
+
+
+Garry, a security professional in an organization, recently noticed that someone was remotely controlling the network devices in the organization. After thorough research, he found that an attacker took advantage of SNMP vulnerabilities to gain access to the systems.
+
+Which of the following countermeasures should Garry follow to secure the organization from SNMP enumeration?
+Upgrading to SNMP3, which encrypts passwords and messages
+
+
+Which of the following practices is known to be an active footprinting method involving direct interaction with a target?
+Performing traceroute analysis
+
+
+Which of the following viruses combines the approach of file infectors and boot record infectors and attempts to simultaneously attack both the boot sector and executable or program files?
+Multipartite viruses
+
+
+Which of the following protocols reduces the chance of a successful hijack by sending data using encryption and digital certificates?
+FTPS
+
+
+Which of the following is an HTTP header field used by an attacker to identify a client system's IP address that initiates a connection to a web server through an HTTP proxy?
+X-Forwarded-For
+
+
+Which of the following techniques is a black-box testing method that is used to identify coding errors and security loopholes in web applications and can prevent attacks such as buffer overflow, DoS, XSS, and SQL injection?
+Application fuzz testing
+
+
+Which protocol and port number might be needed to send log messages to a log analysis tool that resides behind a firewall?
+UDP 514
+
+
+Robert is a user with a privileged account and he is capable of connecting to the database. Rock wants to exploit Robert's privilege account. How can he do that?
+Access the database and perform malicious activities at the OS level
+
+
+Which of the following is a symmetric-key algorithm where both encryption and decryption are performed using the same key?
+AES
+3DES
+RSA
+DES
+
+Seems like either a trick question or a typo because AES, 3DES and DES are all symmetric-key encryption...
+
+
+Which of the following is a password cracking technique that tests all possible character combinations, including combinations of uppercase characters from A to Z, numbers from 0 to 9, and lowercase characters from a to z?
+Brute-force attack
+
+
+Given below are the different steps by which an attacker can reveal a hidden SSID using the aircrack-ng suite.
+
+1. Start airodump-ng to discover SSIDs on the interface
+2. Run airmon-ng in the monitor mode
+3. Switch to airodump to view the revealed SSID
+4. De-authenticate the client to reveal the hidden SSID using Aireplay-ng
+
+What is the correct sequence of steps used for revealing a hidden SSID using the aircrack-ng suite?
+2 1 4 3
+
+
+Where should a web server be placed in a network in order to provide the most security?
+Inside DeMilitarized Zones (DMZ)
+
+
+If an attacker wants to reconstruct malicious firmware from legitimate firmware in order to maintain access to the victim device, which of the following tools can he use to do so?
+Firmware Mod Kit
+
+
+Which of the following scanning techniques is used by an attacker to send a TCP frame to a remote device with the FIN, URG, and PUSH flags set?
+Xmas scan
+
+
+Information gathered from social networking websites such as Facebook, Twitter, and LinkedIn can be used to launch which of the following types of attacks?
+Social engineering attack
+
+
+In which of the following attacks does an attacker trick or attract a user into accessing a legitimate web server using an explicit session ID value?
+Session fixation attack
+
+
+An attacker runs a virtual machine on the same physical host as the victim's virtual machine and takes advantage of shared physical resources (processor cache) to steal data (cryptographic key) from the victim. Which of the following attacks he is performing?
+Side-channel attack
+
+
+Ben, an ethical hacker, was hired by an organization to check its security levels. In the process, Ben examined the network from a hacker's perspective to identify exploits and vulnerabilities accessible to the outside world by using devices such as firewalls, routers, and servers.
+
+Which of the following types of vulnerability assessment did Ben perform on the organization?
+External assessment
+
+
+Which of the following indicators in the OSINT framework indicates a URL that contains the search term, where the URL itself must be edited manually?
+(M)
+
+
+Which one of the following is a Google search query used for VPN footprinting to find Cisco VPN client passwords?
+"[main]" "enc_GroupPwd=" ext:txt
+
+
+Which of the following technique allows an attacker to see past versions and pages of the target website?
+Go to Archive.org to see past versions of the company website
+
+
+Which of the following techniques allows an attacker to view the individual data bytes of each packet passing through a network as well as capture a data packet, decode it, and analyze its content according to predetermined rules?
+Hardware protocol analyzer
+
+
+Ray, a professional hacker, helps malicious attackers in finding vulnerabilities in the target organization. He also helps organizations by checking its limitations and suggesting best practices for making its IT infrastructure more secure.
+
+What is the hacker class to which Ray belongs?
+Gray hats
+
+
+Which of the following communication protocols is a variant of the Wi-Fi standard that provides an extended range, making it useful for communications in rural areas, and offers low data rates?
+HaLow
+
+
+Which of the following operating systems allows loading of weak dylibs dynamically that is exploited by attackers to place a malicious dylib in the specified location?
+OS X
+
+
+Which of the following elements of information security ensures that information is accessible only to authorized personnel and features controls such as data classification, data encryption, and proper disposal of equipment?
+Confidentiality
+
+
+Which of the following tools is utilized by an attacker to perform vulnerability assessment on a target IoT and ICS environment for obtaining the objective risk score and identifying all the IoT and ICS assets connected to the target network?
+CyberX
+
+
+Which of the following is considered as the method of transmitting radio signals by rapidly switching a carrier among many frequency channels?
+Frequency-hopping Spread Spectrum (FHSS)
+
+
+Joe, a security professional in an organization, was instructed to simplify the decision-making capability of an organization for identified risks. In the process, he employed a method to scale risk by considering the probability, likelihood, and consequence or impact of the risk.
+
+What is the method employed by Joe for the representation of risk severity?
+Risk matrix
+
+
+In which of the following methods does an attacker leverage headers such as Host in the HTTP request message to crack passwords?
+Attack password reset mechanism
+
+
+An attacker performed OS banner grabbing on a target host. They analyzed the packets received from the target system and identified that the values of time to live (TTL) and TCP window size as 255 and 4128, respectively.
+
+What is the operating system of the target host on which the attacker performed banner grabbing?
+iOS 12.4 (Cisco Routers)
+
+
+You are a security engineer for XYZ Corp. You are looking for a cloud-based e-mail provider to migrate the company's legacy on-premise e-mail system to. What type of cloud service model will the new e-mail system be running on?
+SaaS
+
+
+In which of the following attacks does an attacker extract cryptographic secrets from a person by coercion or torture?
+Rubber hose attack
+
+
+Javier is asked to explain to IT management as to why he is suggesting replacing the existing company firewall. Javier states that many external attackers are using forged internet addresses against the firewall and is concerned that this technique is highly effective against the existing firewall. What type of firewall Javier would have deployed?
+Circuit-level proxy firewall is deployed because it prevents these types of attacks.
+
+
+Which of the following attacks exploits the reuse of cryptographic nonce during the TLS handshake to hijack HTTPS sessions, leading to the disclosure of sensitive information?
+Forbidden attack
+
+
+Which of the following layers in the IoT architecture is responsible for bridging the gap between two endpoints and performs functions such as message routing, message identification, and subscribing?
+Access gateway layer
+
+
+Which of the following symmetric-key block ciphers uses a 128-bit symmetric block cipher with key sizes of 128, 192, and 256 bits and can be easily integrated into software or hardware programs without any restrictions?
+Serpent
+
+
+Which of the following policies addresses the areas listed below:
+
+Issue identification (ID) cards and uniforms, along with other access control measures to the employees of a particular organization.
+
+Office security or personnel must escort visitors into visitor rooms or lounges.
+
+Restrict access to certain areas of an organization in order to prevent unauthorized users from compromising security of sensitive data.
+Physical security policies
+
+
+A security engineer at a medium-sized accounting firm has been tasked with discovering how much information can be obtained from the firm's public facing webservers. The engineer decides to start by using netcat to port 80. The engineer receives this output:
+
+HTTP/1.1 200 OK
+Server: Microsoft-IIS/6
+Expires: Tue, 17 Jan 2017 01:41:33 GMT
+Date: Mon, 16 Jan 2017 01:41:33 GMT
+Content-Type: text/htmlAccept-Ranges: bytes
+Last-Modified: Wed, 28 Dec 2010 15:32:21 GMT
+ETag: "b0aac0542e25c31:89d"Content-Length: 7369
+
+Which of the following is an example of what the engineer performed?
+Banner grabbing
+
+
+An attacker sends an e-mail containing a malicious Microsoft office document to target WWW/FTP servers and embed Trojan horse files as software installation files, mobile phone software, and so on to lure a user to access them.
+
+Identify by which method the attacker is trying to bypass the firewall.
+Bypassing firewall through content
+
+
+Which of the following methods is an adaptive SQL injection testing technique used to discover coding errors by inputting a massive amount of random data and observing the changes in the output?
+Fuzz testing
+
+
+Which of the following TCP communication flags notifies the transmission of a new sequence number and represents the establishment of a connection between two hosts?
+SYN flag
+
+
+Which of the following security controls involves keeping a warning sign on a fence or property that informs potential attackers of adverse consequences if they proceed to attack?
+Deterrent controls
+
+
+Which of the following protocols is widely used in network management systems to monitor network-attached devices such as routers, switches, firewalls, printers, and servers?
+SNMP
+
+
+Identify the Google search query used by an attacker to extract the list of FTP/SFTP passwords from sublime text.
+intitle:"Index Of" intext:sftp-config.json
+
+
+In which of the following threat modelling steps does the administrator break down an application to obtain details about the trust boundaries, data flows, entry points, and exit points?
+Decompose the application
+
+
+Which of the following types of honeypots simulates only a limited number of services and applications of a target system or network?
+Low-interaction honeypots
+
+
+Which of the following is considered an acceptable option when managing a risk?
+Mitigate the risk
+
+
+In which of the following attacks does an attacker use a method known as the "bricking" of a system, through which he sends emails, IRC chats, tweets, or videos with fraudulent content for hardware updates to the victim?
+Permanent denial-of-service attack
+
+
+Which of the following master components in the Kubernetes cluster architecture scans newly generated pods and allocates a node to them?
+Kube-scheduler
+
+
+If an attacker uses ../ (dot-dot-slash) sequence to access restricted directories outside of the webserver root directory, then which attack did he perform?
+Directory traversal attack
+
+
+Which of the following attacks helps an attacker bypass a same-origin policy's security constraints, allowing a malicious web page to communicate or make arbitrary requests to local domains?
+DNS rebinding attack
+
+
+In which of the following malware components does an attacker embed notorious malware files that can perform the installation task covertly?
+Dropper
+
+
+Which of the following protocols uses AES-GCMP 256 for encryption and ECDH and ECDSA for key management?
+WPA3
+
+
+Which of the following techniques is applied to routers for blocking spoofed traffic and preventing spoofed traffic from entering the Internet?
+Ingress filtering
+
+
+Which of the following techniques is used by an attacker to access all of an application's functionalities and employs an intercepting proxy to monitor all requests and responses?
+Web spidering/crawling
+
+
+Which of the following cryptographic protocols allows two parties to establish a shared key over an insecure channel?
+Diffie-Hellman
+
+
+Which of the following types of antennas is useful for transmitting weak radio signals over very long distances - on the order of 10 miles?
+Parabolic grid
+
+
+Given below are the steps to exploit a system using the Metasploit framework.
+
+1. Verify exploit options
+2. Configure an active exploit
+3. Select a target
+4. Launch the exploit
+5. Select a payload
+
+What is the correct sequence of steps through which a system can be exploited?
+3 1 2 5 4
+
+
+Which of the following attacks involves unauthorized use of a victim's computer to stealthily mine digital currency?
+Cloud Cryptojacking
+
+
+Which of the following Nbtstat parameters lists the current NetBIOS sessions and their status with the IP addresses?
+-S
+
+
+Which of the following is an open-source technology that provides PaaS through OS-level virtualization and delivers containerized software packages?
+Docker ?
+
+
+Melanie, a new employee in an organization, noted down her passwords in a document and saved it to the cloud. Brett, a professional hacker who targeted the organization, succeeded in accessing the file uploaded by Melanie and gathering sensitive information of the organization.
+
+Which of the following categories of insiders does Melanie belong to?
+Negligent insider
+
+
+What results will the following command yield: nmap -sS -O -p 123-153 192.168.100.3?
+A stealth scan, determine operating system, and scanning ports 123 to 153
+
+
+A hacker is attempting to use nslookup to query domain name service (DNS). The hacker uses the nslookup interactive mode for the search. Which command should the hacker type into the command shell to request the appropriate records?
+Set type=ns
+
+
+Which of the following availability attacks involve exploiting the CSMA/CA Clear Channel Assessment (CCA) mechanism to make a channel appear busy?
+Denial-of-Service
+
+
+Which of the following regional internet registries (RIRs) provides services related to the technical coordination and management of Internet number resources in Canada, the United States, and many Caribbean and North Atlantic islands?
+ARIN
+
+
+Which of the following MIBs manages the TCP/IP-based Internet using a simple architecture and system?
+MIB_II.MIB
+
+
+Given below are the different phases of the vulnerability management lifecycle.
+
+1. Monitor
+2. Vulnerability scan
+3. Identify assets and create a baseline
+4. Risk assessment
+5. Verification
+6. Remediation
+
+What is the correct sequence of phases involved in the vulnerability management lifecycle?
+3 2 4 6 5 1
+
+
+In which of the following attack techniques does an attacker exploit an NFC-enabled Android device by establishing a remote connection with the target mobile device and taking full control of the device?
+Tap 'n Ghost attack
+
+
+A hacker is attempting to see which protocols are supported by target machines or network. Which NMAP switch would the hacker use?
+-sO
+
+
+Fred, a professional hacker, was hired to perform a series of attacks on an organization. In this process, he injected a type of malware on a computer to secretly gather information about its users without their knowledge.
+
+Which of the following types of malware did Fred inject into the target computer?
+Spyware
+
+
+Which of the following tools is designed to capture a WPA/WPA2 handshake and act as an ad-hoc AP?
+Airbase-ng
+
+
+Which location and data examination tool interacts only with the real machine where it resides and provides a report to the same machine after scanning?
+Network-based scanner
+
+
+Clark, a professional hacker, has targeted Rick, a bank employee. Clark secretly installed a backdoor Trojan in Rick's laptop to leverage it and access Rick's files. After installing the Trojan, Clark obtained uninterrupted access to the target machine and used it for transferring and modifying files.
+
+Which of the following types of Trojans did Clark install in the above scenario?
+PoisonIvy
+
+
+David, a professional hacker, is performing an attack on a target organization. He has gathered information on its vulnerabilities and created a malicious payload to exploit the target network. He is now planning to inject the payload into the target system by using a phishing email.
+
+Which phase of the cyber kill chain methodology is David in?
+Delivery
+
+
+Which of the following vulnerability assessment phases involves tasks such as system rescanning, dynamic analysis, and attack surface reviewing?
+Verification
+
+
+In which phase of a social engineering attack does an attacker indulges in dumpster diving?
+Research on target
+
+
+Which of the following types of jailbreaking uses a loophole in SecureROM to disable signature checks and thereby load patch NOR firmware?
+iBoot exploit
+
+
+An attacker uses the following SQL query to perform an SQL injection attack
+
+SELECT * FROM users WHERE name - '' OR '1'='1';
+
+Identify the type of SQL injection attack performed
+Tautology
+
+
+Which of the following attacks is launched by an attacker to intercept and use a legitimate user's MAC address for receiving all the traffic destined for the user and gaining access to the network?
+MAC spoofing
+
+
+Which of the following types of software vulnerability occurs due to coding errors and allows attackers to gain access to the target system?
+Buffer overflow
+
+
+In which of the following attacks does an attacker enter a building or security area with the consent of the authorized person?
+Piggybacking
+
+
+Which of the following types of external keyloggers works on the principle of converting electromagnetic sound waves into data?
+Acoustic/CAM keylogger
+
+
+Which of the following techniques is used to detect rogue APs?
+RF scanning
+
+
+Michel, a professional hacker, is trying to perform an SQL injection attack on the MS SQL database system of the CityInfo, Inc. by bypassing the signature-based IDS. He tried various IDS evasion techniques and finally succeeded with one where he breaks the SQL query into a number of small pieces and uses the + sign to join SQL query end to end.
+Which of the following IDS evasion techniques he uses to bypass the signature-based IDS?
+String concatenation
+
+
+Which of the following is defined as a package that is used to address a critical defect in a live environment, and contains a fix for a single issue?
+Hotfix
+
+
+Which of the following Android tools is used by attackers to listen to HTTP packets sent via a wireless (802.11) network connection and extract the session IDs from these packets to reuse them?
+DroidSheep
+
+
+Which of the following methods allows users to attain privileged control within Android's subsystem, resulting in the exposure of sensitive data?
+Rooting
+
+
+Given below are different phases involved in hacking a system or network.
+
+1. Scanning
+2. Reconnaissance
+3. Maintaining access
+4. Clearing tracks
+5. Gaining access
+
+What is the correct sequence of steps involved in hacking a system?
+2 1 5 3 4
+
+
+Which of the following attributes of the target element in a vulnerability scanning report contains the host's name and address?
+<OS>
+
+
+Which of the following attack techniques uses the cryptanalytic time-memory trade-off and requires less time than other techniques?
+Rainbow table attack
+
+
+Which of the following types of steganography involves the process of converting sensitive information into user-definable free speech, such as a play?
+Natural text steganography
+
+
+Billy, a software engineer, received a call from an unknown number claiming to be from the bank in which he has an account. The caller stated that Billy needs to verify his account because of a suspicious online transaction. Billy was suspicious of this request and did not provide any details.
+
+Which of the following types of attack was performed on Billy in the above scenario?
+Dumpster diving ?
+
+Impersonation
+
+
+Which of the following protocols is responsible for synchronizing clocks of networked computers?
+NTP
+
+
+Jim, a professional hacker, launched an APT attack on an organization. He was successful in entering the target network and extending access in the target network. He is now maintaining access with the use of customized malware and repackaging tools.
+
+Which of the following phases of the APT lifecycle involves maintaining access to the target system, starting from evading endpoint security devices, until there is no further use of the data and assets?
+Persistence
+
+
+Which of the following is the regulation that specifies the requirements for establishing, implementing, maintaining, and continually improving an information security management system within the context of an organization?
+ISO/IEC 27001:2013
+
+
+Ronald, a professional hacker, is launching a few attacks on a target organization. In this process, he exploited a vulnerability found in all Intel and ARM processors deployed by Apple to trick a process into accessing out-of-bounds memory by exploiting CPU optimization mechanisms such as speculative execution.
+
+Which of the following vulnerabilities was exploited by Ronald in the above scenario?
+Meltdown
+
+
+Which of the following UDDI information structures takes the form of keyed metadata and represents unique concepts or constructs in UDDI?
+technicalModel
+
+
+Which type of assessment tools are used to find and identify previously unknown vulnerabilities in a system?
+Depth assessment tools
+
+
+An attacker sniffs encrypted traffic from the network and is subsequently able to decrypt it. Which cryptanalytic technique can the attacker use now in his attempt to discover the encryption key?
+Chosen ciphertext attack
+
+
+Which of the following DHCPv4 messages is sent by a client to the server to relinquish the network address and cancel the remaining lease?
+DHCPRelease
+
+
+Which of the following is a bidirectional antenna used to support client connections, rather than site-to-site applications?
+Dipole antenna

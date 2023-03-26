@@ -1,0 +1,239 @@
+Jean Power wants to try and locate passwords from company XYZ. He waits until nightfall and climbs into the paper recycling dumpster behind XYZ, searching for information. What is Jean doing?
+
+
+Dumpster diving
+
+Social engineering
+
+Paper tracking
+
+Password finding
+Dumpster diving
+
+
+Jack a malicious hacker wants to break into Brown Co.'s computers and obtain their secret information related to Company's quotations. Jack calls Jane, an accountant at Brown Co., pretending to be an administrator from Brown Co. Jack tells Jane that there has been a problem with some accounts and asks her to verify her password with him "just to double check our records." Jane does not suspect anything amiss, and reveals her password. Jack can now access Brown Co.'s computers with a valid username and password, to steal the confidential company's quotations.
+
+Identify the attack performed by Jack?
+
+
+Footprinting
+
+Reverse Engineering
+
+Social Engineering
+
+Scanning
+Social Engineering
+
+
+Jacob Hacker wants to infect the network of a competitor with a worm virus. He sets the worm to autoexecute and loads 50 copies of the worm onto 50 separate USB drives. He drives to the competitor's campus and drops the USB keys at various locations around the campus. He waits for random employees to pick it up and who might check to see what is on them by plugging them into their computer. Once an employee has inserted the key, the worm autoexecutes and the network is infected. What type of attack is described here?
+
+
+Social engineering
+
+Virus attack
+
+Distributed Denial-of-Service (DDoS) attack
+
+Brute force attack
+Social Engineering
+
+
+John is a college dropout and spends most of his time on social networking sites looking for the people living in the city and gather their details. One day, he saw a girl's profile and found her email ID from her timeline. John sent her a mail stating that he possessed her private photos and if she fails to provide him with her bank account details, he will upload those images to social networking sites.
+What type of social engineering attack does John attempt on the girl?
+
+
+Vishing
+
+Spear Phishing
+
+Whaling
+
+Pharming
+Spear Phishing
+
+
+Bad Pete would like to locally log onto a PC located inside a secure facility. He dresses like a delivery driver and holds a package outside of the secure facility and waits for someone to open the door. Once he gains entry, he finds an empty office with a PC and gains entry to the network. What is this type of activity known as?
+
+
+Social engineering
+
+Social equity attack
+
+Open door policy attack
+
+Personal attack
+Social engineering
+
+
+In which phase of a social engineering attack does an attacker indulges in dumpster diving?
+
+
+Selecting target
+
+Develop the relationship
+
+Research on target
+
+Exploit the relationship
+Research on target
+
+
+A security consultant decides to scrutinize the information by categorizing information as top secret, proprietary, for internal use only, for public use, etc. Which of the following attack can be mitigated using such countermeasure?
+
+
+Forensic attack
+
+Address Resolution Protocol (ARP) spoofing attack
+
+Social engineering attack
+
+Scanning attack
+Social engineering attack
+
+
+Jose sends a link to the employee of a target organization, falsely claiming to be from a legitimate site in an attempt to acquire his account information. Identify the attack performed by Jose?
+
+
+Phishing
+
+Impersonation
+
+Vishing
+
+Eavesdropping
+Phishing
+
+
+Which of the following attacks can be prevented by implementing token or biometric authentication as a defense strategy?
+
+
+Shoulder surfing
+
+Fake SMS
+
+Eavesdropping
+
+Impersonation
+Impersonation
+
+
+Which of the following is an appropriate defense strategy to prevent attacks such as piggybacking and tailgating?
+
+
+Implement strict badge, token or biometric authentication, employee training, and security guards
+
+Train technical support executives and system administrators never to reveal passwords or other information by phone or email
+
+Employee training, best practices, and checklists for using passwords
+
+Educate vendors about social engineering
+Implement strict badge, token or biometric authentication, employee training, and security guards
+
+
+Which of the following toolbars is used to provide an open application program interface (API) for developers and researchers to integrate anti-phishing data into their applications?
+
+
+DroidSheep
+
+SET
+
+Netcraft
+
+Metasploit
+Netcraft
+
+
+Which of the following policies addresses the areas listed below:
+
+Issue identification (ID) cards and uniforms, along with other access control measures to the employees of a particular organization.
+Office security or personnel must escort visitors into visitor rooms or lounges.
+Restrict access to certain areas of an organization in order to prevent unauthorized users from compromising security of sensitive data.
+
+
+Special-access policies
+
+Physical security policies
+
+Password security policies
+
+Defense strategy
+Physical security policies
+
+
+Which of the following is a generic exploit designed to perform advanced attacks against human elements to compromise a target to offer sensitive information?
+
+
+NetScanTools Pro
+
+Wireshark
+
+Social-engineer toolkit (SET)
+
+Cain and Abel
+Social-engineering Toolkit
+
+
+In which of the following identity thefts does an attacker acquire information from different victims to create a new identity?
+
+
+Tax identity theft
+
+Identity cloning and concealment
+
+Synthetic identity theft
+
+Social identity theft
+Synthetic identity theft
+
+
+Which of the following threats is closely related to medical identity theft?
+
+
+Criminal identity theft
+
+Insurance identity theft
+
+Synthetic identity theft
+
+Social identity theft
+Insurance identity theft
+
+
+Roy is a network administrator at an organization. He decided to establish security policies at different levels in the organization. He decided to restrict the installation of USB drives in the organization and decided to disable all the USB ports. Which of the following countermeasure Roy must employ?
+
+
+Implement proper access privileges
+
+Ensure a regular update of software
+
+Adopt documented change management
+
+Use multiple layers of antivirus defenses
+Implement proper access privileges
+
+
+In which of the following attacks is the practice of spying on the user of a cash-dispensing machine or other electronic device performed in order to obtain their personal identification number, password, and so on?
+
+
+Dumpster diving
+
+Piggybacking
+
+Tailgating
+
+Shoulder surfing
+Shoulder surfing
+
+
+Which of the following terms refers to an advanced form of phishing in which the attacker redirects the connection between the IP address and its target server?
+
+
+Skimming
+
+Pretexting
+
+Pharming
+
+Hacking
+Pharming
